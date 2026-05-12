@@ -1,0 +1,6 @@
+provider: "mock"
+model: "deterministic-hash-embedding"
+batch_size: 16
+max_chunk_chars: 1200
+overlap_chars: 150
+dimension: 128

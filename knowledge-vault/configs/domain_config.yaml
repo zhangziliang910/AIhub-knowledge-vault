@@ -1,0 +1,43 @@
+domains:
+  ai:
+    name: "AI"
+    folders:
+      - "ai"
+    keywords:
+      - "AI"
+      - "LLM"
+      - "Agent"
+      - "MCP"
+      - "RAG"
+      - "OpenAI"
+      - "Anthropic"
+      - "DeepSeek"
+      - "模型"
+      - "大模型"
+      - "智能体"
+
+  web3:
+    name: "Web3"
+    folders:
+      - "web3"
+    keywords:
+      - "Web3"
+      - "Crypto"
+      - "Blockchain"
+      - "Ethereum"
+      - "Solana"
+      - "DeFi"
+      - "RWA"
+      - "Stablecoin"
+      - "Layer2"
+      - "区块链"
+      - "稳定币"
+      - "公链"
+
+cross_keywords:
+  - "AI Agent + Web3"
+  - "AI Crypto"
+  - "decentralized AI"
+  - "去中心化 AI"
+  - "链上 AI Agent"
+  - "DePIN"

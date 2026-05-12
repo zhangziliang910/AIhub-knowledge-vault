@@ -1,0 +1,81 @@
+{
+  "sources": [
+    {
+      "id": "openai_news",
+      "name": "OpenAI News",
+      "domain": "ai",
+      "source_type": "official",
+      "credibility_level": "A",
+      "feed_url": "https://openai.com/news/rss.xml",
+      "page_url": "https://openai.com/news",
+      "link_allow": ["openai.com/news", "openai.com/research"],
+      "enabled": true
+    },
+    {
+      "id": "anthropic_news",
+      "name": "Anthropic News",
+      "domain": "ai",
+      "source_type": "official",
+      "credibility_level": "A",
+      "feed_url": "",
+      "page_url": "https://www.anthropic.com/news",
+      "link_allow": ["anthropic.com/news", "anthropic.com/research"],
+      "enabled": true
+    },
+    {
+      "id": "google_deepmind_blog",
+      "name": "Google DeepMind Blog",
+      "domain": "ai",
+      "source_type": "official",
+      "credibility_level": "A",
+      "feed_url": "https://deepmind.google/discover/blog/rss.xml",
+      "page_url": "https://deepmind.google/discover/blog",
+      "link_allow": ["deepmind.google/discover/blog"],
+      "enabled": true
+    },
+    {
+      "id": "ethereum_foundation_blog",
+      "name": "Ethereum Foundation Blog",
+      "domain": "web3",
+      "source_type": "official",
+      "credibility_level": "A",
+      "feed_url": "https://blog.ethereum.org/feed.xml",
+      "page_url": "https://blog.ethereum.org/en",
+      "link_allow": ["blog.ethereum.org"],
+      "enabled": true
+    },
+    {
+      "id": "solana_news",
+      "name": "Solana News",
+      "domain": "web3",
+      "source_type": "official",
+      "credibility_level": "A",
+      "feed_url": "https://solana.com/news/rss.xml",
+      "page_url": "https://solana.com/news",
+      "link_allow": ["solana.com/news"],
+      "enabled": true
+    },
+    {
+      "id": "techcrunch_ai",
+      "name": "TechCrunch AI",
+      "domain": "ai",
+      "source_type": "media",
+      "credibility_level": "B",
+      "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "page_url": "https://techcrunch.com/category/artificial-intelligence/",
+      "link_allow": ["techcrunch.com"],
+      "enabled": true
+    },
+    {
+      "id": "coindesk",
+      "name": "CoinDesk",
+      "domain": "web3",
+      "source_type": "media",
+      "credibility_level": "B",
+      "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+      "page_url": "https://www.coindesk.com",
+      "link_allow": ["coindesk.com"],
+      "enabled": true
+    }
+  ]
+}

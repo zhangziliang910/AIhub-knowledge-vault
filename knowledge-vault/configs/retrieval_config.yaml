@@ -1,0 +1,24 @@
+top_k: 8
+max_chunks_per_document: 3
+
+weights:
+  semantic_similarity: 0.60
+  credibility: 0.15
+  importance: 0.15
+  recency: 0.05
+  doc_type: 0.05
+
+credibility_weight:
+  A: 1.0
+  B: 0.8
+  C: 0.5
+  D: 0.2
+
+doc_type_weight:
+  project: 1.0
+  concept: 1.0
+  weekly: 0.9
+  processed: 0.8
+  daily: 0.7
+  index: 0.2
+  raw: 0.3

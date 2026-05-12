@@ -1,0 +1,757 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "6cfeb35266494af483f47aca8b5afcb5",
+      "domain": "ai",
+      "title": "How ChatGPT adoption broadened in early 2026",
+      "source": "OpenAI News",
+      "url": "https://openai.com/signals/research/2026q1-update",
+      "published_at": "",
+      "collected_at": "2026-05-12T10:55:48+08:00",
+      "type": "news",
+      "tags": [
+        "ai",
+        "chatgpt",
+        "gpt"
+      ],
+      "entities": [
+        "ChatGPT",
+        "How ChatGPT"
+      ],
+      "importance_score": 7,
+      "credibility_level": "A",
+      "summary": "ChatGPT adoption surged in Q1 2026, with fastest growth among users over 35 and more balanced gender usage, signaling broader mainstream AI adoption.",
+      "file_path": "ai/processed/2026-05-12-how-chatgpt-adoption-broadened-in-early-2026-6cfeb352.md",
+      "raw_paths": [
+        "ai/raw/2026-05-12-how-chatgpt-adoption-broadened-in-early-2026-6cfeb352.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-12-how-chatgpt-adoption-broadened-in-early-2026-6cfeb352.md"
+      ],
+      "related_sources": [
+        {
+          "title": "How ChatGPT adoption broadened in early 2026",
+          "url": "https://openai.com/signals/research/2026q1-update",
+          "source": "OpenAI News",
+          "collected_at": "2026-05-12T14:17:44+08:00"
+        },
+        {
+          "title": "How ChatGPT adoption broadened in early 2026",
+          "url": "https://openai.com/signals/research/2026q1-update",
+          "source": "OpenAI News",
+          "collected_at": "2026-05-12T14:32:33+08:00"
+        },
+        {
+          "title": "How ChatGPT adoption broadened in early 2026",
+          "url": "https://openai.com/signals/research/2026q1-update",
+          "source": "OpenAI News",
+          "collected_at": "2026-05-12T14:35:44+08:00"
+        }
+      ]
+    },
+    {
+      "id": "b95f7878639345aeb01c9072dabaa0c3",
+      "domain": "ai",
+      "title": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
+      "source": "Anthropic News",
+      "url": "https://www.anthropic.com/news/claude-opus-4-7",
+      "published_at": "",
+      "collected_at": "2026-05-12T10:55:57+08:00",
+      "type": "news",
+      "tags": [
+        "agent",
+        "ai",
+        "claude",
+        "model"
+      ],
+      "entities": [
+        "Claude",
+        "Claude Opus",
+        "Introducing Claude",
+        "Opus",
+        "Our",
+        "Product Apr"
+      ],
+      "importance_score": 8,
+      "credibility_level": "A",
+      "summary": "Our latest model, Claude Opus 4.7, is now generally available. Opus 4.7 is a notable improvement on Opus 4.6 in advanced software engineering, with particular gains on the most difficult tasks.",
+      "file_path": "ai/processed/2026-05-12-introducing-claude-opus-4-7-product-apr-16-2026-our-latest-opus-model-brings-str-b95f7878.md",
+      "raw_paths": [
+        "ai/raw/2026-05-12-introducing-claude-opus-4-7-product-apr-16-2026-our-latest-opus-model-brings-str-b95f7878.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-12-introducing-claude-opus-4-7-product-apr-16-2026-our-latest-opus-model-brings-str-b95f7878.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "source": "Anthropic News",
+          "collected_at": "2026-05-12T14:18:03+08:00"
+        },
+        {
+          "title": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "source": "Anthropic News",
+          "collected_at": "2026-05-12T14:32:43+08:00"
+        },
+        {
+          "title": "Introducing Claude Opus 4.7 Product Apr 16, 2026 Our latest Opus model brings stronger performance across coding, agents, vision, and multi-step tasks, with greater thoroughness and consistency on the work that matters most.",
+          "url": "https://www.anthropic.com/news/claude-opus-4-7",
+          "source": "Anthropic News",
+          "collected_at": "2026-05-12T14:35:54+08:00"
+        }
+      ]
+    },
+    {
+      "id": "4a5bea2b43f34914984b36ff0cb4d841",
+      "domain": "web3",
+      "title": "Protocol Cluster Updates: May 2026",
+      "source": "Ethereum Foundation Blog",
+      "url": "https://blog.ethereum.org/en/2026/05/11/protocol-update-may-26",
+      "published_at": "",
+      "collected_at": "2026-05-12T10:56:10+08:00",
+      "type": "research",
+      "tags": [
+        "protocol"
+      ],
+      "entities": [
+        "Blog Search",
+        "Categories",
+        "Development",
+        "May",
+        "Protocol Cluster",
+        "Research",
+        "Skip",
+        "Updates"
+      ],
+      "importance_score": 6,
+      "credibility_level": "A",
+      "summary": "EF Blog Search Skip to content Categories R&D Research & Development",
+      "file_path": "web3/processed/2026-05-12-protocol-cluster-updates-may-2026-4a5bea2b.md",
+      "raw_paths": [
+        "web3/raw/2026-05-12-protocol-cluster-updates-may-2026-4a5bea2b.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-12-protocol-cluster-updates-may-2026-4a5bea2b.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Protocol Cluster Updates: May 2026",
+          "url": "https://blog.ethereum.org/en/2026/05/11/protocol-update-may-26",
+          "source": "Ethereum Foundation Blog",
+          "collected_at": "2026-05-12T14:18:19+08:00"
+        },
+        {
+          "title": "Soldøgn Interop Recap ☀️",
+          "url": "https://blog.ethereum.org/en/2026/05/02/soldogn-interop-recap",
+          "source": "Ethereum Foundation Blog",
+          "collected_at": "2026-05-12T14:18:19+08:00"
+        },
+        {
+          "title": "Announcing Cohort 7 of the Ethereum Protocol Fellowship",
+          "url": "https://blog.ethereum.org/en/2026/04/30/epf-7",
+          "source": "Ethereum Foundation Blog",
+          "collected_at": "2026-05-12T14:18:19+08:00"
+        },
+        {
+          "title": "Protocol Cluster Updates: May 2026",
+          "url": "https://blog.ethereum.org/en/2026/05/11/protocol-update-may-26",
+          "source": "Ethereum Foundation Blog",
+          "collected_at": "2026-05-12T14:32:58+08:00"
+        },
+        {
+          "title": "Soldøgn Interop Recap ☀️",
+          "url": "https://blog.ethereum.org/en/2026/05/02/soldogn-interop-recap",
+          "source": "Ethereum Foundation Blog",
+          "collected_at": "2026-05-12T14:32:58+08:00"
+        },
+        {
+          "title": "Announcing Cohort 7 of the Ethereum Protocol Fellowship",
+          "url": "https://blog.ethereum.org/en/2026/04/30/epf-7",
+          "source": "Ethereum Foundation Blog",
+          "collected_at": "2026-05-12T14:32:58+08:00"
+        },
+        {
+          "title": "Protocol Cluster Updates: May 2026",
+          "url": "https://blog.ethereum.org/en/2026/05/11/protocol-update-may-26",
+          "source": "Ethereum Foundation Blog",
+          "collected_at": "2026-05-12T14:36:07+08:00"
+        }
+      ]
+    },
+    {
+      "id": "3f0a41dc4f464c8b8f829b3b01d37061",
+      "domain": "ai",
+      "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-12T10:56:23+08:00",
+      "type": "policy",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "IPO\nRobinhood",
+        "Riding",
+        "Robinhood"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
+      "file_path": "ai/processed/2026-05-12-riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo-3f0a41dc.md",
+      "raw_paths": [
+        "ai/raw/2026-05-12-riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo-3f0a41dc.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-12-riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo-3f0a41dc.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+          "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+          "source": "TechCrunch AI",
+          "collected_at": "2026-05-12T14:18:34+08:00"
+        },
+        {
+          "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
+          "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
+          "source": "TechCrunch AI",
+          "collected_at": "2026-05-12T14:33:14+08:00"
+        }
+      ]
+    },
+    {
+      "id": "05f8cc35e7a546e29ce8258a6fad8d6a",
+      "domain": "web3",
+      "title": "'A big nothing burger': A Q&A with Strategy's Michael Saylor on selling bitcoin",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/11/a-big-nothing-burger-a-q-and-a-with-strategy-s-michael-saylor-on-selling-bitcoin",
+      "published_at": "2026-05-11",
+      "collected_at": "2026-05-12T10:56:28+08:00",
+      "type": "news",
+      "tags": [
+        "bitcoin"
+      ],
+      "entities": [
+        "Bitcoin",
+        "CoinDesk",
+        "Michael Saylor",
+        "STRC",
+        "Strategy"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "Michael Saylor sat down with CoinDesk on selling bitcoin for dividends, retiring debt with STRC proceeds, and why critics who say Strategy buys the weekly top are missing the point.",
+      "file_path": "web3/processed/2026-05-12-a-big-nothing-burger-a-q-a-with-strategy-s-michael-saylor-on-selling-bitcoin-05f8cc35.md",
+      "raw_paths": [
+        "web3/raw/2026-05-12-a-big-nothing-burger-a-q-a-with-strategy-s-michael-saylor-on-selling-bitcoin-05f8cc35.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-12-a-big-nothing-burger-a-q-a-with-strategy-s-michael-saylor-on-selling-bitcoin-05f8cc35.md"
+      ]
+    },
+    {
+      "id": "afce7224bc0347f88c51b4ea6742e67d",
+      "domain": "ai",
+      "title": "How enterprises are scaling AI",
+      "source": "OpenAI News",
+      "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+      "published_at": "",
+      "collected_at": "2026-05-12T14:17:44+08:00",
+      "type": "news",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "How"
+      ],
+      "importance_score": 6,
+      "credibility_level": "A",
+      "summary": "How enterprises scale AI: from early experiments to compounding impact through trust, governance, workflow design, and quality at scale.",
+      "file_path": "ai/processed/2026-05-12-how-enterprises-are-scaling-ai-afce7224.md",
+      "raw_paths": [
+        "ai/raw/2026-05-12-how-enterprises-are-scaling-ai-afce7224.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-12-how-enterprises-are-scaling-ai-afce7224.md"
+      ],
+      "related_sources": [
+        {
+          "title": "How enterprises are scaling AI",
+          "url": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
+          "source": "OpenAI News",
+          "collected_at": "2026-05-12T14:32:33+08:00"
+        }
+      ]
+    },
+    {
+      "id": "33781fd1cabd4329a9c447bcd390eb9e",
+      "domain": "ai",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "published_at": "",
+      "collected_at": "2026-05-12T14:17:44+08:00",
+      "type": "news",
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "entities": [
+        "Join",
+        "Network",
+        "OpenAI",
+        "OpenAI Campus",
+        "Student"
+      ],
+      "importance_score": 8,
+      "credibility_level": "A",
+      "summary": "Join the OpenAI Campus Network—connect student clubs worldwide, access AI tools, host events, and build an AI-powered campus community.",
+      "file_path": "ai/processed/2026-05-12-openai-campus-network-student-club-interest-form-33781fd1.md",
+      "raw_paths": [
+        "ai/raw/2026-05-12-openai-campus-network-student-club-interest-form-33781fd1.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-12-openai-campus-network-student-club-interest-form-33781fd1.md"
+      ],
+      "related_sources": [
+        {
+          "title": "OpenAI Campus Network: Student club interest form",
+          "url": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+          "source": "OpenAI News",
+          "collected_at": "2026-05-12T14:32:34+08:00"
+        }
+      ]
+    },
+    {
+      "id": "a41a41e16ea343f18ca5e617d080679e",
+      "domain": "ai",
+      "title": "Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+      "source": "Anthropic News",
+      "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "published_at": "",
+      "collected_at": "2026-05-12T14:18:03+08:00",
+      "type": "product_update",
+      "tags": [
+        "anthropic",
+        "claude"
+      ],
+      "entities": [
+        "Anthropic",
+        "Anthropic Labs",
+        "Claude",
+        "Claude Design",
+        "Design",
+        "Introducing Claude",
+        "Product Apr",
+        "Today"
+      ],
+      "importance_score": 9,
+      "credibility_level": "A",
+      "summary": "Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+      "file_path": "ai/processed/2026-05-12-product-apr-17-2026-introducing-claude-design-by-anthropic-labs-today-we-re-laun-a41a41e1.md",
+      "raw_paths": [
+        "ai/raw/2026-05-12-product-apr-17-2026-introducing-claude-design-by-anthropic-labs-today-we-re-laun-a41a41e1.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-12-product-apr-17-2026-introducing-claude-design-by-anthropic-labs-today-we-re-laun-a41a41e1.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Product Apr 17, 2026 Introducing Claude Design by Anthropic Labs Today, we’re launching Claude Design, a new Anthropic Labs product that lets you collaborate with Claude to create polished visual work like designs, prototypes, slides, one-pagers, and more.",
+          "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+          "source": "Anthropic News",
+          "collected_at": "2026-05-12T14:32:43+08:00"
+        }
+      ]
+    },
+    {
+      "id": "b8526d2e04b34409950e19e3a05703b4",
+      "domain": "ai",
+      "title": "Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "source": "Anthropic News",
+      "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "published_at": "",
+      "collected_at": "2026-05-12T14:18:03+08:00",
+      "type": "news",
+      "tags": [
+        "ai",
+        "claude"
+      ],
+      "entities": [
+        "Announcements Feb",
+        "Claude"
+      ],
+      "importance_score": 7,
+      "credibility_level": "A",
+      "summary": "We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+      "file_path": "ai/processed/2026-05-12-announcements-feb-4-2026-claude-is-a-space-to-think-we-ve-made-a-choice-claude-w-b8526d2e.md",
+      "raw_paths": [
+        "ai/raw/2026-05-12-announcements-feb-4-2026-claude-is-a-space-to-think-we-ve-made-a-choice-claude-w-b8526d2e.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-12-announcements-feb-4-2026-claude-is-a-space-to-think-we-ve-made-a-choice-claude-w-b8526d2e.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Announcements Feb 4, 2026 Claude is a space to think We’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+          "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+          "source": "Anthropic News",
+          "collected_at": "2026-05-12T14:32:44+08:00"
+        }
+      ]
+    },
+    {
+      "id": "8322ea91b8ab42c0a0932839041dcd12",
+      "domain": "web3",
+      "title": "Solana Ecosystem Roundup: April 2026",
+      "source": "Solana News",
+      "url": "https://solana.com/news/solana-ecosystem-roundup-april-2026",
+      "published_at": "",
+      "collected_at": "2026-05-12T14:18:28+08:00",
+      "type": "news",
+      "tags": [
+        "defi",
+        "solana",
+        "stablecoin",
+        "token"
+      ],
+      "entities": [
+        "April",
+        "DeFi",
+        "RWAs",
+        "Roundup",
+        "Solana",
+        "Solana Ecosystem"
+      ],
+      "importance_score": 9,
+      "credibility_level": "A",
+      "summary": "A deep dive into everything that shaped the Solana ecosystem in April 2026, from institutional adoption and tokenized RWAs to stablecoins, DeFi infrastructure, AI agents, and consumer apps.",
+      "file_path": "web3/processed/2026-05-12-solana-ecosystem-roundup-april-2026-8322ea91.md",
+      "raw_paths": [
+        "web3/raw/2026-05-12-solana-ecosystem-roundup-april-2026-8322ea91.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-12-solana-ecosystem-roundup-april-2026-8322ea91.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Solana Ecosystem Roundup: April 2026",
+          "url": "https://solana.com/news/solana-ecosystem-roundup-april-2026",
+          "source": "Solana News",
+          "collected_at": "2026-05-12T14:33:07+08:00"
+        },
+        {
+          "title": "Solana Ecosystem Roundup: April 2026",
+          "url": "https://solana.com/news/solana-ecosystem-roundup-april-2026",
+          "source": "Solana News",
+          "collected_at": "2026-05-12T14:36:10+08:00"
+        }
+      ]
+    },
+    {
+      "id": "8bedd4393e864fc7b77f476f0974422a",
+      "domain": "web3",
+      "title": "Solana Foundation Launches Pay.sh in Collaboration with Google Cloud",
+      "source": "Solana News",
+      "url": "https://solana.com/news/solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud",
+      "published_at": "",
+      "collected_at": "2026-05-12T14:18:28+08:00",
+      "type": "product_update",
+      "tags": [
+        "solana"
+      ],
+      "entities": [
+        "Collaboration",
+        "Google",
+        "Google Cloud",
+        "Launches Pay",
+        "Pay",
+        "Solana",
+        "Solana Foundation"
+      ],
+      "importance_score": 8,
+      "credibility_level": "A",
+      "summary": "Solana Foundation In collaboration with Google Cloud introduced Pay.sh, a gateway service designed to bridge the gap between autonomous agents and enterprise infrastructure.",
+      "file_path": "web3/processed/2026-05-12-solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud-8bedd439.md",
+      "raw_paths": [
+        "web3/raw/2026-05-12-solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud-8bedd439.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-12-solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud-8bedd439.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Solana Foundation Launches Pay.sh in Collaboration with Google Cloud",
+          "url": "https://solana.com/news/solana-foundation-launches-pay-sh-in-collaboration-with-google-cloud",
+          "source": "Solana News",
+          "collected_at": "2026-05-12T14:33:07+08:00"
+        }
+      ]
+    },
+    {
+      "id": "ca8c9052837f47ceb32426347f274b4b",
+      "domain": "web3",
+      "title": "Solana’s Quantum Readiness",
+      "source": "Solana News",
+      "url": "https://solana.com/news/quantum-readiness",
+      "published_at": "",
+      "collected_at": "2026-05-12T14:18:28+08:00",
+      "type": "research",
+      "tags": [
+        "solana"
+      ],
+      "entities": [
+        "Anza",
+        "Firedancer",
+        "Quantum Readiness",
+        "Solana",
+        "Where Solana"
+      ],
+      "importance_score": 7,
+      "credibility_level": "A",
+      "summary": "Where Solana’s quantum readiness stands and the path forward, with independent research from Firedancer and Anza",
+      "file_path": "web3/processed/2026-05-12-solana-s-quantum-readiness-ca8c9052.md",
+      "raw_paths": [
+        "web3/raw/2026-05-12-solana-s-quantum-readiness-ca8c9052.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-12-solana-s-quantum-readiness-ca8c9052.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Solana’s Quantum Readiness",
+          "url": "https://solana.com/news/quantum-readiness",
+          "source": "Solana News",
+          "collected_at": "2026-05-12T14:33:07+08:00"
+        }
+      ]
+    },
+    {
+      "id": "e6558df377414d958ed370130e2f4d94",
+      "domain": "ai",
+      "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-12T14:18:34+08:00",
+      "type": "news",
+      "tags": [
+        "ai",
+        "model"
+      ],
+      "entities": [
+        "Right",
+        "Thinking Machines",
+        "You"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.",
+      "file_path": "ai/processed/2026-05-12-thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks-e6558df3.md",
+      "raw_paths": [
+        "ai/raw/2026-05-12-thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks-e6558df3.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-12-thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks-e6558df3.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+          "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+          "source": "TechCrunch AI",
+          "collected_at": "2026-05-12T14:33:14+08:00"
+        },
+        {
+          "title": "Thinking Machines wants to build an AI that actually listens while it talks",
+          "url": "https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/",
+          "source": "TechCrunch AI",
+          "collected_at": "2026-05-12T14:36:14+08:00"
+        }
+      ]
+    },
+    {
+      "id": "684730f2c91743e488418166eec703fe",
+      "domain": "ai",
+      "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+      "published_at": "2026-05-11",
+      "collected_at": "2026-05-12T14:18:35+08:00",
+      "type": "news",
+      "tags": [
+        "agent",
+        "ai",
+        "model"
+      ],
+      "entities": [
+        "Base",
+        "Some"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.",
+      "file_path": "ai/processed/2026-05-12-gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills-684730f2.md",
+      "raw_paths": [
+        "ai/raw/2026-05-12-gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills-684730f2.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-12-gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills-684730f2.md"
+      ],
+      "related_sources": [
+        {
+          "title": "GM just laid off hundreds of IT workers to hire those with stronger AI skills",
+          "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+          "source": "TechCrunch AI",
+          "collected_at": "2026-05-12T14:33:14+08:00"
+        }
+      ]
+    },
+    {
+      "id": "9488623edf844952bdf2834d267f01ea",
+      "domain": "web3",
+      "title": "'Bitcoin transactions can be monitored’: Ray Dalio explains why central banks won’t touch BTC",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-transactions-can-be-monitored-ray-dalio-explains-why-central-banks-won-t-touch-btc",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-12T14:18:44+08:00",
+      "type": "news",
+      "tags": [
+        "bitcoin"
+      ],
+      "entities": [
+        "BTC\nRay",
+        "Bitcoin",
+        "Dalio",
+        "Ray Dalio"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "Ray Dalio joins the privacy debate, saying Bitcoin’s full transparency makes it less likely to be adopted by central banks.",
+      "file_path": "web3/processed/2026-05-12-bitcoin-transactions-can-be-monitored-ray-dalio-explains-why-central-banks-won-t-9488623e.md",
+      "raw_paths": [
+        "web3/raw/2026-05-12-bitcoin-transactions-can-be-monitored-ray-dalio-explains-why-central-banks-won-t-9488623e.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-12-bitcoin-transactions-can-be-monitored-ray-dalio-explains-why-central-banks-won-t-9488623e.md"
+      ],
+      "related_sources": [
+        {
+          "title": "'Bitcoin transactions can be monitored’: Ray Dalio explains why central banks won’t touch BTC",
+          "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-transactions-can-be-monitored-ray-dalio-explains-why-central-banks-won-t-touch-btc",
+          "source": "CoinDesk",
+          "collected_at": "2026-05-12T14:33:24+08:00"
+        }
+      ]
+    },
+    {
+      "id": "ef710b21782c4cbab2f335430da127b2",
+      "domain": "web3",
+      "title": "Ripple-linked XRP holds near $1.46 as breakout attempt fades despite $200 million raise",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/12/ripple-linked-xrp-holds-near-usd1-46-as-breakout-attempt-fades-despite-usd200-million-raise",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-12T14:18:44+08:00",
+      "type": "news",
+      "tags": [],
+      "entities": [
+        "Ripple",
+        "XRP"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "XRP briefly pushed toward $1.49 on heavy volume before stalling again near a resistance zone that has capped rallies for months.",
+      "file_path": "web3/processed/2026-05-12-ripple-linked-xrp-holds-near-1-46-as-breakout-attempt-fades-despite-200-million-ef710b21.md",
+      "raw_paths": [
+        "web3/raw/2026-05-12-ripple-linked-xrp-holds-near-1-46-as-breakout-attempt-fades-despite-200-million-ef710b21.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-12-ripple-linked-xrp-holds-near-1-46-as-breakout-attempt-fades-despite-200-million-ef710b21.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Ripple-linked XRP holds near $1.46 as breakout attempt fades despite $200 million raise",
+          "url": "https://www.coindesk.com/markets/2026/05/12/ripple-linked-xrp-holds-near-usd1-46-as-breakout-attempt-fades-despite-usd200-million-raise",
+          "source": "CoinDesk",
+          "collected_at": "2026-05-12T14:33:24+08:00"
+        }
+      ]
+    },
+    {
+      "id": "8b8c6e8a2097490886c23156edc09030",
+      "domain": "web3",
+      "title": "Bitcoin briefly hits $82,000, SOL, DOGE higher as Michael Burry warns of stock crash",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-12T14:18:45+08:00",
+      "type": "news",
+      "tags": [
+        "bitcoin",
+        "solana"
+      ],
+      "entities": [
+        "Bitcoin",
+        "DOGE",
+        "Iran",
+        "Michael Burry",
+        "Nasdaq",
+        "SOL",
+        "Short",
+        "Solana",
+        "The Big"
+      ],
+      "importance_score": 7,
+      "credibility_level": "B",
+      "summary": "Bitcoin held above $81,000 after touching $82,026 overnight, while solana led the major altcoins on the week as The Big Short investor warned the Nasdaq 100 had reached dot-com bubble territory and oil zoomed past $105 on fresh Iran ceasefire doubts.",
+      "file_path": "web3/processed/2026-05-12-bitcoin-briefly-hits-82-000-sol-doge-higher-as-michael-burry-warns-of-stock-cras-8b8c6e8a.md",
+      "raw_paths": [
+        "web3/raw/2026-05-12-bitcoin-briefly-hits-82-000-sol-doge-higher-as-michael-burry-warns-of-stock-cras-8b8c6e8a.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-12-bitcoin-briefly-hits-82-000-sol-doge-higher-as-michael-burry-warns-of-stock-cras-8b8c6e8a.md"
+      ],
+      "related_sources": [
+        {
+          "title": "Bitcoin briefly hits $82,000, SOL, DOGE higher as Michael Burry warns of stock crash",
+          "url": "https://www.coindesk.com/markets/2026/05/12/bitcoin-briefly-hits-usd82-000-sol-doge-higher-as-michael-burry-warns-of-stock-crash",
+          "source": "CoinDesk",
+          "collected_at": "2026-05-12T14:33:24+08:00"
+        }
+      ]
+    },
+    {
+      "id": "6843a10874614d51a97c49a7d65954f3",
+      "domain": "web3",
+      "title": "Aave launches binding Arbitrum vote to move $71 million in disputed ETH",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/12/aave-launches-binding-arbitrum-vote-to-move-usd71-million-disputed-eth",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-12T14:36:21+08:00",
+      "type": "product_update",
+      "tags": [
+        "dao"
+      ],
+      "entities": [
+        "Aave",
+        "Aave LLC",
+        "Arbitrum",
+        "ETH\nAave",
+        "Kelp DAO"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "Aave and other parties affected by last month’s Kelp DAO hack have proposed a binding Arbitrum governance vote to transfer $71 million in disputed ether into Aave LLC’s custody.",
+      "file_path": "web3/processed/2026-05-12-aave-launches-binding-arbitrum-vote-to-move-71-million-in-disputed-eth-6843a108.md",
+      "raw_paths": [
+        "web3/raw/2026-05-12-aave-launches-binding-arbitrum-vote-to-move-71-million-in-disputed-eth-6843a108.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-12-aave-launches-binding-arbitrum-vote-to-move-71-million-in-disputed-eth-6843a108.md"
+      ]
+    }
+  ]
+}

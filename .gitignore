@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Generated knowledge-vault runtime data
+knowledge-vault/data/sqlite/*.db
+knowledge-vault/data/sqlite/*.db-*
+knowledge-vault/data/vector/**/*.json
+knowledge-vault/logs/**/*.log
+
+# Local OS/editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+

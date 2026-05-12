@@ -1,0 +1,8 @@
+knowledge_root: "."
+database_path: "data/sqlite/knowledge.db"
+vector_root: "data/vector"
+log_root: "logs"
+
+default_domain: "all"
+default_top_k: 8
+timezone: "Asia/Shanghai"

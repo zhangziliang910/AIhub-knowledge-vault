@@ -5,14 +5,16 @@ __pycache__/
 venv/
 
 # Generated knowledge-vault runtime data
+knowledge-vault/data/collections/
+knowledge-vault/data/filtered/
 knowledge-vault/data/sqlite/*.db
 knowledge-vault/data/sqlite/*.db-*
 knowledge-vault/data/vector/**/*.json
 knowledge-vault/logs/**/*.log
+knowledge-vault/logs/runs/*.md
 
 # Local OS/editor noise
 .DS_Store
 Thumbs.db
 .idea/
 .vscode/
-

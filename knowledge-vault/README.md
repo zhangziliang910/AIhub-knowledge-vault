@@ -146,6 +146,7 @@ python scripts/sync_markdown_to_vector.py --domain all
 来源配置：
 
 ```text
+configs/sources.yaml
 configs/sources_config.yaml
 ```
 
@@ -186,6 +187,158 @@ python main.py collect --domain all --limit-per-source 3 --sync
 ```
 
 当前首批来源包括 OpenAI、Anthropic、Google DeepMind、Ethereum Foundation、Solana、TechCrunch AI、CoinDesk。采集器优先读取 RSS/Atom；如果来源没有可用 feed，会退回网页链接发现。所有采集内容仍然走原来的 `vault.py ingest`，因此会复用领域判断、去重、Markdown 落盘、项目档案更新等能力。
+
+AI 自动化采集还接入了 AI HOT：
+
+```text
+https://aihot.virxact.com
+```
+
+配置位置：
+
+```text
+configs/sources.yaml
+```
+
+来源名称：
+
+```text
+AI HOT 精选
+```
+
+采集器会调用 AI HOT 公开 API，并按要求带 `aihot-skill` User-Agent。该来源会进入每日 AI pipeline，与 OpenAI、Anthropic、Hugging Face、GitHub Trending 等来源一起参与筛选、入库、日报和 RAG。
+
+## 自动专家系统 Pipeline
+
+标准版之上新增了自动运转 pipeline：
+
+```text
+自动采集 -> 自动筛选 -> 自动沉淀 -> 自动总结 -> 辅助决策
+```
+
+核心命令：
+
+```powershell
+python scripts/collect_sources.py --domain ai
+python scripts/collect_sources.py --domain web3
+python scripts/filter_items.py --domain all
+python scripts/ingest_pipeline.py --domain all
+python scripts/run_daily_pipeline.py
+python scripts/run_weekly_pipeline.py
+```
+
+每日 pipeline 会执行：
+
+1. 从 `configs/sources.yaml` 读取来源并采集。
+2. 写入 `data/collections/YYYY-MM-DD/ai.jsonl` 和 `web3.jsonl`。
+3. 筛选、去重、评分。
+4. 调用现有 `vault.py ingest` 入库。
+5. 对英文材料保留英文原文，并在下方追加中文翻译 / 中文要点。
+6. 同步 SQLite 和向量库。
+7. 生成 AI / Web3 日报。
+8. 生成可读 HTML 日报。
+9. 写运行报告。
+
+英文材料处理规则：
+
+```text
+英文原文保留在原位置
+下方追加 “中文翻译 / 中文要点”
+```
+
+可手动补翻当天内容：
+
+```powershell
+python scripts/add_chinese_translation.py --domain all --date 2026-05-13
+python scripts/sync_markdown_to_db.py --domain all
+python scripts/sync_markdown_to_vector.py --domain all
+```
+
+### 使用 OpenAI API 翻译
+
+翻译配置：
+
+```text
+configs/translation_config.yaml
+```
+
+默认 provider 为 `openai`，模型配置为 `gpt-5.2`。API Key 只从环境变量读取：
+
+```powershell
+$env:OPENAI_API_KEY="你的 API Key"
+python scripts/add_chinese_translation.py --domain all --date 2026-05-13 --force
+```
+
+如果没有配置 `OPENAI_API_KEY`，脚本会自动退回到本地 mock 翻译/中文要点，不会中断 pipeline。
+
+HTML 日报是主要阅读版本：
+
+```text
+reports/daily/YYYY-MM-DD-ai.html
+reports/daily/YYYY-MM-DD-web3.html
+```
+
+Markdown 日报继续用于知识库和 RAG：
+
+```text
+ai/daily/YYYY-MM-DD.md
+web3/daily/YYYY-MM-DD.md
+```
+
+每周 pipeline 会执行：
+
+```powershell
+python scripts/run_weekly_pipeline.py
+```
+
+输出：
+
+```text
+ai/weekly/YYYY-Wxx.md
+web3/weekly/YYYY-Wxx.md
+ai/trend_memory.md
+web3/trend_memory.md
+ai/expert_profile.md
+web3/expert_profile.md
+```
+
+## 调度
+
+本地常驻调度：
+
+```powershell
+python scripts/scheduler.py start
+```
+
+手动触发：
+
+```powershell
+python scripts/scheduler.py run-daily
+python scripts/scheduler.py run-evening
+python scripts/scheduler.py run-weekly
+```
+
+Windows 任务计划程序可分别调用：
+
+```powershell
+cd C:\Users\50580\Desktop\PAB\AIhub\knowledge-vault
+python scripts/run_daily_pipeline.py
+python scripts/run_daily_pipeline.py --mode evening
+python scripts/run_weekly_pipeline.py
+```
+
+Cron 示例：
+
+```bash
+# 每天 07:30 运行每日知识积累
+30 7 * * * cd /path/to/knowledge-vault && /usr/bin/python scripts/run_daily_pipeline.py >> logs/runs/daily.log 2>&1
+
+# 每天 20:30 运行晚间补充
+30 20 * * * cd /path/to/knowledge-vault && /usr/bin/python scripts/run_daily_pipeline.py --mode evening >> logs/runs/evening.log 2>&1
+
+# 每周日 21:00 运行周报和专家更新
+0 21 * * 0 cd /path/to/knowledge-vault && /usr/bin/python scripts/run_weekly_pipeline.py >> logs/runs/weekly.log 2>&1
+```
 
 ## 同步 Markdown 到 SQLite
 

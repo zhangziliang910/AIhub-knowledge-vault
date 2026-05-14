@@ -1,0 +1,8 @@
+{
+  "min_importance_to_ingest": 2,
+  "high_value_importance": 4,
+  "max_items_per_source": 5,
+  "title_similarity_threshold": 0.82,
+  "summary_similarity_threshold": 0.78,
+  "low_value_action": "record_only"
+}

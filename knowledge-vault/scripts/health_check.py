@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 from lib.config import VAULT_ROOT
+from lib.config import load_config
 from lib.db import connect, db_path, init_db
 from lib.markdown_utils import markdown_files
 from lib.vector_store import get_vector_store
@@ -39,7 +40,16 @@ def main() -> None:
     with connect() as conn:
         for table in sorted(REQUIRED_TABLES):
             print(f"[OK] {table} table exists" if table_exists(conn, table) else f"[FAIL] {table} table missing")
-        print("[OK] vector store available")
+    print("[OK] vector store available")
+    sources_path = VAULT_ROOT / "configs" / "sources.yaml"
+    print("[OK] sources.yaml exists" if sources_path.exists() else "[FAIL] sources.yaml missing")
+    if sources_path.exists():
+        sources = load_config("sources.yaml").get("sources", {})
+        enabled = 0
+        for groups in sources.values():
+            for items in groups.values():
+                enabled += sum(1 for item in items if item.get("enabled", True))
+        print(f"[OK] enabled sources: {enabled}")
         for domain in ["ai", "web3"]:
             stats = domain_stats(conn, domain)
             print(f"\n{domain.upper()}:")
@@ -48,6 +58,21 @@ def main() -> None:
         row = conn.execute("SELECT key,value,updated_at FROM sync_state ORDER BY updated_at DESC LIMIT 1").fetchone()
         print("\nRecent sync:")
         print(f"- {row['key']}: {row['updated_at']} {row['value']}" if row else "- none")
+        print("\nPipeline files:")
+        for label, path in {
+            "latest collection": VAULT_ROOT / "data" / "collections",
+            "latest daily html": VAULT_ROOT / "reports" / "daily",
+            "latest run report": VAULT_ROOT / "logs" / "runs",
+            "ai expert_profile": VAULT_ROOT / "ai" / "expert_profile.md",
+            "ai trend_memory": VAULT_ROOT / "ai" / "trend_memory.md",
+            "web3 expert_profile": VAULT_ROOT / "web3" / "expert_profile.md",
+            "web3 trend_memory": VAULT_ROOT / "web3" / "trend_memory.md",
+        }.items():
+            if path.is_dir():
+                files = sorted([p for p in path.rglob("*") if p.is_file()], key=lambda p: p.stat().st_mtime, reverse=True)
+                print(f"- {label}: {files[0].relative_to(VAULT_ROOT) if files else 'none'}")
+            else:
+                print(f"- {label}: {'exists' if path.exists() else 'missing'}")
 
 
 if __name__ == "__main__":

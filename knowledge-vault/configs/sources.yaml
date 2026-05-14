@@ -1,0 +1,145 @@
+{
+  "sources": {
+    "ai": {
+      "aihot": [
+        {
+          "name": "AI HOT 精选",
+          "url": "https://aihot.virxact.com/api/public/items?mode=selected&take=50",
+          "type": "aihot_api",
+          "credibility_level": "B",
+          "enabled": true,
+          "tags": ["AI HOT", "中文 AI 资讯", "精选动态"],
+          "mode": "selected",
+          "take": 50
+        }
+      ],
+      "official": [
+        {
+          "name": "OpenAI News",
+          "url": "https://openai.com/news",
+          "feed_url": "https://openai.com/news/rss.xml",
+          "type": "webpage",
+          "credibility_level": "A",
+          "enabled": true,
+          "tags": ["AI模型", "大厂动态"],
+          "link_allow": ["openai.com/news", "openai.com/research", "openai.com/signals"]
+        },
+        {
+          "name": "Anthropic News",
+          "url": "https://www.anthropic.com/news",
+          "type": "webpage",
+          "credibility_level": "A",
+          "enabled": true,
+          "tags": ["AI模型", "AI安全"],
+          "link_allow": ["anthropic.com/news", "anthropic.com/research"]
+        },
+        {
+          "name": "Hugging Face Blog",
+          "url": "https://huggingface.co/blog",
+          "type": "webpage",
+          "credibility_level": "A",
+          "enabled": true,
+          "tags": ["开源模型", "开发者生态"],
+          "link_allow": ["huggingface.co/blog"]
+        }
+      ],
+      "github": [
+        {
+          "name": "GitHub Trending AI",
+          "url": "https://github.com/trending/python?since=daily",
+          "type": "webpage",
+          "credibility_level": "B",
+          "enabled": true,
+          "tags": ["开源项目", "开发者工具"],
+          "link_allow": ["github.com/"]
+        }
+      ],
+      "media": [
+        {
+          "name": "Hacker News",
+          "url": "https://news.ycombinator.com/",
+          "type": "webpage",
+          "credibility_level": "B",
+          "enabled": true,
+          "tags": ["技术社区", "趋势观察"],
+          "link_allow": ["news.ycombinator.com/item"]
+        },
+        {
+          "name": "TechCrunch AI",
+          "url": "https://techcrunch.com/category/artificial-intelligence/",
+          "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+          "type": "rss",
+          "credibility_level": "B",
+          "enabled": true,
+          "tags": ["AI媒体", "行业动态"],
+          "link_allow": ["techcrunch.com"]
+        }
+      ]
+    },
+    "web3": {
+      "official": [
+        {
+          "name": "Ethereum Blog",
+          "url": "https://blog.ethereum.org/en",
+          "feed_url": "https://blog.ethereum.org/feed.xml",
+          "type": "webpage",
+          "credibility_level": "A",
+          "enabled": true,
+          "tags": ["Ethereum", "Layer1"],
+          "link_allow": ["blog.ethereum.org"]
+        },
+        {
+          "name": "Solana News",
+          "url": "https://solana.com/news",
+          "feed_url": "https://solana.com/news/rss.xml",
+          "type": "webpage",
+          "credibility_level": "A",
+          "enabled": true,
+          "tags": ["Solana", "Layer1"],
+          "link_allow": ["solana.com/news"]
+        },
+        {
+          "name": "Base Blog",
+          "url": "https://www.base.org/blog",
+          "type": "webpage",
+          "credibility_level": "A",
+          "enabled": true,
+          "tags": ["Base", "Layer2"],
+          "link_allow": ["base.org/blog"]
+        }
+      ],
+      "data": [
+        {
+          "name": "DefiLlama",
+          "url": "https://defillama.com/",
+          "type": "webpage",
+          "credibility_level": "A",
+          "enabled": true,
+          "tags": ["DeFi", "链上数据"],
+          "link_allow": ["defillama.com"]
+        }
+      ],
+      "media": [
+        {
+          "name": "CoinDesk",
+          "url": "https://www.coindesk.com",
+          "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+          "type": "rss",
+          "credibility_level": "B",
+          "enabled": true,
+          "tags": ["Web3媒体", "行业动态"],
+          "link_allow": ["coindesk.com"]
+        },
+        {
+          "name": "PANews",
+          "url": "https://www.panewslab.com/",
+          "type": "webpage",
+          "credibility_level": "B",
+          "enabled": true,
+          "tags": ["Web3媒体", "中文来源"],
+          "link_allow": ["panewslab.com"]
+        }
+      ]
+    }
+  }
+}

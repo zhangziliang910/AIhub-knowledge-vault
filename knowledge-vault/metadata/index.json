@@ -752,6 +752,1530 @@
       "processed_paths": [
         "web3/processed/2026-05-12-aave-launches-binding-arbitrum-vote-to-move-71-million-in-disputed-eth-6843a108.md"
       ]
+    },
+    {
+      "id": "f66a46ff0bdf4b799a2e8112791e6a8f",
+      "domain": "ai",
+      "title": "How finance teams use Codex",
+      "source": "OpenAI News",
+      "url": "https://openai.com/academy/how-finance-teams-use-codex",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:56+08:00",
+      "type": "news",
+      "tags": [
+        "model"
+      ],
+      "entities": [
+        "Codex",
+        "Codex\nSee",
+        "How",
+        "MBRs"
+      ],
+      "importance_score": 6,
+      "credibility_level": "A",
+      "summary": "See how finance teams can use Codex to build MBRs, reporting packs, variance bridges, model checks, and planning scenarios from real work inputs.",
+      "file_path": "ai/processed/2026-05-13-how-finance-teams-use-codex-f66a46ff.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-how-finance-teams-use-codex-f66a46ff.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-how-finance-teams-use-codex-f66a46ff.md"
+      ]
+    },
+    {
+      "id": "2f914a5a28054afea61f41d73f41486a",
+      "domain": "ai",
+      "title": "How NVIDIA engineers and researchers build with Codex",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/nvidia",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:56+08:00",
+      "type": "research",
+      "tags": [
+        "gpt",
+        "nvidia"
+      ],
+      "entities": [
+        "Codex",
+        "Codex\nTeams",
+        "GPT",
+        "GPT-5",
+        "How NVIDIA",
+        "NVIDIA"
+      ],
+      "importance_score": 7,
+      "credibility_level": "A",
+      "summary": "Teams use Codex with GPT-5.5 to ship production systems and turn research ideas into runnable experiments.",
+      "file_path": "ai/processed/2026-05-13-how-nvidia-engineers-and-researchers-build-with-codex-2f914a5a.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-how-nvidia-engineers-and-researchers-build-with-codex-2f914a5a.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-how-nvidia-engineers-and-researchers-build-with-codex-2f914a5a.md"
+      ]
+    },
+    {
+      "id": "3d42855b0b0f440f8c425b1441b8ecc7",
+      "domain": "ai",
+      "title": "What Parameter Golf taught us about AI-assisted research",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/what-parameter-golf-taught-us",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:57+08:00",
+      "type": "research",
+      "tags": [
+        "agent",
+        "ai",
+        "model"
+      ],
+      "entities": [
+        "Golf",
+        "Parameter Golf",
+        "What Parameter"
+      ],
+      "importance_score": 7,
+      "credibility_level": "A",
+      "summary": "Parameter Golf brought together 1,000+ participants and 2,000+ submissions to explore AI-assisted machine learning research, coding agents, quantization, and novel model design under strict constraints.",
+      "file_path": "ai/processed/2026-05-13-what-parameter-golf-taught-us-about-ai-assisted-research-3d42855b.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-what-parameter-golf-taught-us-about-ai-assisted-research-3d42855b.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-what-parameter-golf-taught-us-about-ai-assisted-research-3d42855b.md"
+      ]
+    },
+    {
+      "id": "fbe6e27c30a3423a9915855d9f7ea4ef",
+      "domain": "ai",
+      "title": "AutoScout24 scales engineering with AI-powered workflows",
+      "source": "OpenAI News",
+      "url": "https://openai.com/index/autoscout24",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:57+08:00",
+      "type": "news",
+      "tags": [
+        "ai",
+        "chatgpt",
+        "gpt"
+      ],
+      "entities": [
+        "AutoScout24",
+        "AutoScout24 Group",
+        "ChatGPT",
+        "Codex",
+        "Learn"
+      ],
+      "importance_score": 7,
+      "credibility_level": "A",
+      "summary": "Learn how AutoScout24 Group uses Codex and ChatGPT to speed development cycles, improve code quality, and expand AI adoption.",
+      "file_path": "ai/processed/2026-05-13-autoscout24-scales-engineering-with-ai-powered-workflows-fbe6e27c.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-autoscout24-scales-engineering-with-ai-powered-workflows-fbe6e27c.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-autoscout24-scales-engineering-with-ai-powered-workflows-fbe6e27c.md"
+      ]
+    },
+    {
+      "id": "09a8fc2660614fbe9d6583c187c85ae4",
+      "domain": "ai",
+      "title": "Research",
+      "source": "Anthropic News",
+      "url": "https://www.anthropic.com/research",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:57+08:00",
+      "type": "research",
+      "tags": [
+        "anthropic"
+      ],
+      "entities": [
+        "Anthropic",
+        "Anthropic News",
+        "Research"
+      ],
+      "importance_score": 7,
+      "credibility_level": "A",
+      "summary": "自动采集自 Anthropic News：Research",
+      "file_path": "ai/processed/2026-05-13-research-09a8fc26.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-research-09a8fc26.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-research-09a8fc26.md"
+      ]
+    },
+    {
+      "id": "8462327baa354116bca0ba7fa1028742",
+      "domain": "ai",
+      "title": "May 6, 2026 Announcements Higher usage limits for Claude and a compute deal with SpaceX",
+      "source": "Anthropic News",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:57+08:00",
+      "type": "news",
+      "tags": [
+        "anthropic",
+        "claude"
+      ],
+      "entities": [
+        "Announcements Higher",
+        "Anthropic",
+        "Anthropic News",
+        "Claude",
+        "May",
+        "SpaceX"
+      ],
+      "importance_score": 8,
+      "credibility_level": "A",
+      "summary": "自动采集自 Anthropic News：May 6, 2026 Announcements Higher usage limits for Claude and a compute deal with SpaceX",
+      "file_path": "ai/processed/2026-05-13-may-6-2026-announcements-higher-usage-limits-for-claude-and-a-compute-deal-with-8462327b.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-may-6-2026-announcements-higher-usage-limits-for-claude-and-a-compute-deal-with-8462327b.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-may-6-2026-announcements-higher-usage-limits-for-claude-and-a-compute-deal-with-8462327b.md"
+      ]
+    },
+    {
+      "id": "8e570677176342f19cce5e431409186e",
+      "domain": "ai",
+      "title": "view all",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/community",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:57+08:00",
+      "type": "news",
+      "tags": [],
+      "entities": [
+        "Blog",
+        "Hugging Face"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "自动采集自 Hugging Face Blog：view all",
+      "file_path": "ai/processed/2026-05-13-view-all-8e570677.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-view-all-8e570677.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-view-all-8e570677.md"
+      ]
+    },
+    {
+      "id": "c0c2cb2d618b4cc486cd7d1b9ba92954",
+      "domain": "ai",
+      "title": "Introducing the agentic robotics appstore for 10,000 Reachy Minis clem • 7 days ago • 33",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/clem/reachymini-appstore",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:57+08:00",
+      "type": "news",
+      "tags": [
+        "agent"
+      ],
+      "entities": [
+        "Blog",
+        "Hugging Face",
+        "Introducing",
+        "Reachy Minis"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "自动采集自 Hugging Face Blog：Introducing the agentic robotics appstore for 10,000 Reachy Minis clem • 7 days ago • 33",
+      "file_path": "ai/processed/2026-05-13-introducing-the-agentic-robotics-appstore-for-10-000-reachy-minis-clem-7-days-ag-c0c2cb2d.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-introducing-the-agentic-robotics-appstore-for-10-000-reachy-minis-clem-7-days-ag-c0c2cb2d.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-introducing-the-agentic-robotics-appstore-for-10-000-reachy-minis-clem-7-days-ag-c0c2cb2d.md"
+      ]
+    },
+    {
+      "id": "0c0b6837c5564c3682a3918d7c67f05e",
+      "domain": "ai",
+      "title": "QVAC MedPsy: State-of-the-Art Medical and Healthcare Language Models for Edge Devices qvac • 6 days ago • 15",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/qvac/medpsy",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:57+08:00",
+      "type": "news",
+      "tags": [
+        "model"
+      ],
+      "entities": [
+        "Art Medical",
+        "Blog",
+        "Edge Devices",
+        "Healthcare Language",
+        "Hugging Face",
+        "Models",
+        "QVAC MedPsy",
+        "State"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "自动采集自 Hugging Face Blog：QVAC MedPsy: State-of-the-Art Medical and Healthcare Language Models for Edge Devices qvac • 6 days ago • 15",
+      "file_path": "ai/processed/2026-05-13-qvac-medpsy-state-of-the-art-medical-and-healthcare-language-models-for-edge-dev-0c0b6837.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-qvac-medpsy-state-of-the-art-medical-and-healthcare-language-models-for-edge-dev-0c0b6837.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-qvac-medpsy-state-of-the-art-medical-and-healthcare-language-models-for-edge-dev-0c0b6837.md"
+      ]
+    },
+    {
+      "id": "7298d8478c084247afc737bc906f7cbf",
+      "domain": "ai",
+      "title": "Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 2 days ago • 15",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/mishig/local-moores-law",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:57+08:00",
+      "type": "news",
+      "tags": [
+        "ai",
+        "model"
+      ],
+      "entities": [
+        "Blog",
+        "Hugging Face",
+        "Laptop",
+        "Law",
+        "Local",
+        "Models Outpaced",
+        "Moore",
+        "Two Years",
+        "When Open"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "自动采集自 Hugging Face Blog：Two Years of Local AI on a Laptop: When Open Models Outpaced Moore's Law mishig • 2 days ago • 15",
+      "file_path": "ai/processed/2026-05-13-two-years-of-local-ai-on-a-laptop-when-open-models-outpaced-moore-s-law-mishig-2-7298d847.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-two-years-of-local-ai-on-a-laptop-when-open-models-outpaced-moore-s-law-mishig-2-7298d847.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-two-years-of-local-ai-on-a-laptop-when-open-models-outpaced-moore-s-law-mishig-2-7298d847.md"
+      ]
+    },
+    {
+      "id": "ef6aa6c7af634e10a8611e0d5fb59df2",
+      "domain": "ai",
+      "title": "NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 159",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/sensenova/neo-unify",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:58+08:00",
+      "type": "news",
+      "tags": [
+        "model",
+        "multimodal"
+      ],
+      "entities": [
+        "Blog",
+        "Building Native",
+        "End",
+        "Hugging Face",
+        "Mar",
+        "Models End",
+        "Multimodal Unified",
+        "NEO"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "自动采集自 Hugging Face Blog：NEO-unify: Building Native Multimodal Unified Models End to End sensenova • Mar 5 • 159",
+      "file_path": "ai/processed/2026-05-13-neo-unify-building-native-multimodal-unified-models-end-to-end-sensenova-mar-5-1-ef6aa6c7.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-neo-unify-building-native-multimodal-unified-models-end-to-end-sensenova-mar-5-1-ef6aa6c7.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-neo-unify-building-native-multimodal-unified-models-end-to-end-sensenova-mar-5-1-ef6aa6c7.md"
+      ]
+    },
+    {
+      "id": "cc18d41a785f483f8cd864bab953348e",
+      "domain": "ai",
+      "title": "GitHub Copilot Write better code with AI",
+      "source": "GitHub Trending AI",
+      "url": "https://github.com/features/copilot",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:58+08:00",
+      "type": "news",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "GitHub Copilot",
+        "GitHub Trending",
+        "Write"
+      ],
+      "importance_score": 6,
+      "credibility_level": "A",
+      "summary": "自动采集自 GitHub Trending AI：GitHub Copilot Write better code with AI",
+      "file_path": "ai/processed/2026-05-13-github-copilot-write-better-code-with-ai-cc18d41a.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-github-copilot-write-better-code-with-ai-cc18d41a.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-github-copilot-write-better-code-with-ai-cc18d41a.md"
+      ]
+    },
+    {
+      "id": "dfd84fba54634efd8f88675b44762f4d",
+      "domain": "ai",
+      "title": "GitHub Spark Build and deploy intelligent apps",
+      "source": "GitHub Trending AI",
+      "url": "https://github.com/features/spark",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:58+08:00",
+      "type": "news",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Build",
+        "GitHub Spark",
+        "GitHub Trending"
+      ],
+      "importance_score": 6,
+      "credibility_level": "A",
+      "summary": "自动采集自 GitHub Trending AI：GitHub Spark Build and deploy intelligent apps",
+      "file_path": "ai/processed/2026-05-13-github-spark-build-and-deploy-intelligent-apps-dfd84fba.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-github-spark-build-and-deploy-intelligent-apps-dfd84fba.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-github-spark-build-and-deploy-intelligent-apps-dfd84fba.md"
+      ]
+    },
+    {
+      "id": "26ca2a0d43d14ae7bf5e850d0659db04",
+      "domain": "ai",
+      "title": "GitHub Models Manage and compare prompts",
+      "source": "GitHub Trending AI",
+      "url": "https://github.com/features/models",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:58+08:00",
+      "type": "news",
+      "tags": [
+        "ai",
+        "model"
+      ],
+      "entities": [
+        "GitHub Models",
+        "GitHub Trending",
+        "Manage"
+      ],
+      "importance_score": 7,
+      "credibility_level": "A",
+      "summary": "自动采集自 GitHub Trending AI：GitHub Models Manage and compare prompts",
+      "file_path": "ai/processed/2026-05-13-github-models-manage-and-compare-prompts-26ca2a0d.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-github-models-manage-and-compare-prompts-26ca2a0d.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-github-models-manage-and-compare-prompts-26ca2a0d.md"
+      ]
+    },
+    {
+      "id": "e9eb3ae67caa461180d51d90d180b587",
+      "domain": "ai",
+      "title": "MCP Registry New Integrate external tools",
+      "source": "GitHub Trending AI",
+      "url": "https://github.com/mcp",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:58+08:00",
+      "type": "news",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "GitHub Trending",
+        "MCP Registry",
+        "New Integrate"
+      ],
+      "importance_score": 6,
+      "credibility_level": "A",
+      "summary": "自动采集自 GitHub Trending AI：MCP Registry New Integrate external tools",
+      "file_path": "ai/processed/2026-05-13-mcp-registry-new-integrate-external-tools-e9eb3ae6.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-mcp-registry-new-integrate-external-tools-e9eb3ae6.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-mcp-registry-new-integrate-external-tools-e9eb3ae6.md"
+      ]
+    },
+    {
+      "id": "7faf571f88f942f0949e61a01c4707e6",
+      "domain": "ai",
+      "title": "Actions Automate any workflow",
+      "source": "GitHub Trending AI",
+      "url": "https://github.com/features/actions",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:16:58+08:00",
+      "type": "news",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Actions Automate",
+        "GitHub Trending"
+      ],
+      "importance_score": 6,
+      "credibility_level": "A",
+      "summary": "自动采集自 GitHub Trending AI：Actions Automate any workflow",
+      "file_path": "ai/processed/2026-05-13-actions-automate-any-workflow-7faf571f.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-actions-automate-any-workflow-7faf571f.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-actions-automate-any-workflow-7faf571f.md"
+      ]
+    },
+    {
+      "id": "727ad4c6c49a4063884453cab336202e",
+      "domain": "ai",
+      "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-13T16:16:58+08:00",
+      "type": "news",
+      "tags": [
+        "agent",
+        "ai",
+        "model"
+      ],
+      "entities": [
+        "ACCESS",
+        "Medicare",
+        "There"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication. ACCESS creates that mechanism for the first time.",
+      "file_path": "ai/processed/2026-05-13-medicare-s-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-i-727ad4c6.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-medicare-s-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-i-727ad4c6.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-medicare-s-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-i-727ad4c6.md"
+      ]
+    },
+    {
+      "id": "5406e61c93d44cecb3a620b82b1446c6",
+      "domain": "ai",
+      "title": "Musk mulled handing OpenAI to his children, Altman testifies",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/12/musk-mulled-handing-openai-to-his-children-altman-testifies/",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-13T16:16:59+08:00",
+      "type": "news",
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "entities": [
+        "Altman",
+        "Combinator",
+        "Musk",
+        "OpenAI"
+      ],
+      "importance_score": 7,
+      "credibility_level": "B",
+      "summary": "Altman said that Musk's focus on controlling the initial for-profit gave him pause because OpenAI was dedicated to keeping advanced AI out of the hands of a single person, and Altman, with his experience running the prominent startup accelerator Y Combinator, knew \"founders who had control usually did not give it up.\"",
+      "file_path": "ai/processed/2026-05-13-musk-mulled-handing-openai-to-his-children-altman-testifies-5406e61c.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-musk-mulled-handing-openai-to-his-children-altman-testifies-5406e61c.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-musk-mulled-handing-openai-to-his-children-altman-testifies-5406e61c.md"
+      ]
+    },
+    {
+      "id": "c8364712965b4c988f19376154b52e56",
+      "domain": "ai",
+      "title": "Anthropic warns investors against secondary platforms offering access to its shares",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/12/anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-shares/",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-13T16:16:59+08:00",
+      "type": "policy",
+      "tags": [
+        "ai",
+        "anthropic"
+      ],
+      "entities": [
+        "Anthropic",
+        "Any"
+      ],
+      "importance_score": 7,
+      "credibility_level": "B",
+      "summary": "\"Any sale or transfer of Anthropic stock, or any interest in Anthropic stock, offered by these firms is void and will not be recognized on our books and records,\" the company's support page reads.",
+      "file_path": "ai/processed/2026-05-13-anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-sha-c8364712.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-sha-c8364712.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-anthropic-warns-investors-against-secondary-platforms-offering-access-to-its-sha-c8364712.md"
+      ]
+    },
+    {
+      "id": "4307bccda56943af9d77eda42e340f2f",
+      "domain": "ai",
+      "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/12/report-google-and-spacex-in-talks-to-put-data-centers-into-orbit/",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-13T16:16:59+08:00",
+      "type": "news",
+      "tags": [
+        "ai"
+      ],
+      "entities": [
+        "Google",
+        "Report",
+        "SpaceX"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+      "file_path": "ai/processed/2026-05-13-report-google-and-spacex-in-talks-to-put-data-centers-into-orbit-4307bccd.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-report-google-and-spacex-in-talks-to-put-data-centers-into-orbit-4307bccd.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-report-google-and-spacex-in-talks-to-put-data-centers-into-orbit-4307bccd.md"
+      ]
+    },
+    {
+      "id": "2adb1712b951445e9ed75b00c5566080",
+      "domain": "ai",
+      "title": "Everything Google announced at its Android Show, from Googlebooks to vibe-coded widgets",
+      "source": "TechCrunch AI",
+      "url": "https://techcrunch.com/2026/05/12/everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-widgets/",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-13T16:16:59+08:00",
+      "type": "news",
+      "tags": [
+        "agent",
+        "ai",
+        "gemini"
+      ],
+      "entities": [
+        "Android",
+        "Android Auto",
+        "Android Show",
+        "Chrome",
+        "Everything Google",
+        "Gemini",
+        "Google",
+        "Googlebooks"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "Google unveiled its new AI-first Googlebooks laptops, more agentic Gemini features, vibe-coded Android widgets, Gemini in Chrome, refreshed Android Auto, and more ahead of I/O.",
+      "file_path": "ai/processed/2026-05-13-everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-w-2adb1712.md",
+      "raw_paths": [
+        "ai/raw/2026-05-13-everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-w-2adb1712.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-13-everything-google-announced-at-its-android-show-from-googlebooks-to-vibe-coded-w-2adb1712.md"
+      ]
+    },
+    {
+      "id": "0aed6b1185d148d9a93bd37d35e7e34f",
+      "domain": "web3",
+      "title": "Clear Signing: Making Transaction Approvals Safer on Ethereum",
+      "source": "Ethereum Blog",
+      "url": "https://blog.ethereum.org/en/2026/05/12/clear-signing-announcement",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:00+08:00",
+      "type": "product_update",
+      "tags": [
+        "ethereum",
+        "wallet"
+      ],
+      "entities": [
+        "Approvals Safer",
+        "Bybit",
+        "Clear Signing",
+        "Ethereum",
+        "Ethereum Foundation",
+        "Ethereum Working",
+        "Group",
+        "Making Transaction",
+        "Security Initiative",
+        "Trillion Dollar"
+      ],
+      "importance_score": 9,
+      "credibility_level": "A",
+      "summary": "An Ethereum Working Group consisting of wallet developers, security firms and the Ethereum Foundation’s Trillion Dollar Security Initiative today launched an open standard designed to end blind signing — a structural flaw that has contributed to billions in user losses, including the Bybit hack. Ethereum Foundation’s Trillion Dollar Security Initiative...",
+      "file_path": "web3/processed/2026-05-13-clear-signing-making-transaction-approvals-safer-on-ethereum-0aed6b11.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-clear-signing-making-transaction-approvals-safer-on-ethereum-0aed6b11.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-clear-signing-making-transaction-approvals-safer-on-ethereum-0aed6b11.md"
+      ]
+    },
+    {
+      "id": "23c3b38a47f04054a4bbaecc39c9f4e3",
+      "domain": "web3",
+      "title": "Soldøgn Interop Recap ☀️",
+      "source": "Ethereum Blog",
+      "url": "https://blog.ethereum.org/en/2026/05/02/soldogn-interop-recap",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:00+08:00",
+      "type": "news",
+      "tags": [
+        "ethereum"
+      ],
+      "entities": [
+        "Amphora",
+        "Arctic Circle",
+        "Berlinterop",
+        "Edelweiss",
+        "Ethereum",
+        "Glamsterdam",
+        "Interop",
+        "Interop Recap",
+        "Longyearbyen",
+        "Svalbard",
+        "This"
+      ],
+      "importance_score": 7,
+      "credibility_level": "A",
+      "summary": "This past week, just over 100 Ethereum core contributors gathered above the Arctic Circle — in Longyearbyen, Svalbard — for the Soldøgn Interop: a week of intense work on the Glamsterdam network upgrade. Soldøgn followed last year's Berlinterop, but returned to the format used by Amphora 🏺, [Edelweiss 🏔️](https://blog.ethereum.org/2023/02/07/edelweiss-interop-recap...",
+      "file_path": "web3/processed/2026-05-13-soldøgn-interop-recap-23c3b38a.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-soldøgn-interop-recap-23c3b38a.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-soldøgn-interop-recap-23c3b38a.md"
+      ]
+    },
+    {
+      "id": "ac0c31431b674139bb9adfdfffb017a0",
+      "domain": "web3",
+      "title": "Announcing Cohort 7 of the Ethereum Protocol Fellowship",
+      "source": "Ethereum Blog",
+      "url": "https://blog.ethereum.org/en/2026/04/30/epf-7",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:00+08:00",
+      "type": "news",
+      "tags": [
+        "ethereum",
+        "protocol"
+      ],
+      "entities": [
+        "Announcing Cohort",
+        "Applications",
+        "EPF7",
+        "Ethereum",
+        "Ethereum Protocol",
+        "Fellowship",
+        "May",
+        "Review",
+        "UTC"
+      ],
+      "importance_score": 8,
+      "credibility_level": "A",
+      "summary": "TL;DR: 📝 Applications for EPF7 are open until May 13 🔎 Review the program details for EPF7 🎙️ An introductory town hall will be held on May 6 at 1500 UTC We are excited to announce that applications are now open for the seventh cohort of the [Ethereum...",
+      "file_path": "web3/processed/2026-05-13-announcing-cohort-7-of-the-ethereum-protocol-fellowship-ac0c3143.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-announcing-cohort-7-of-the-ethereum-protocol-fellowship-ac0c3143.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-announcing-cohort-7-of-the-ethereum-protocol-fellowship-ac0c3143.md"
+      ]
+    },
+    {
+      "id": "49acb5baff694d6b980bd983eb4ea96b",
+      "domain": "web3",
+      "title": "Allocation Update - Q1 2026",
+      "source": "Ethereum Blog",
+      "url": "https://blog.ethereum.org/en/2026/04/29/allocation-q1-26",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:01+08:00",
+      "type": "research",
+      "tags": [
+        "crypto",
+        "ethereum",
+        "protocol"
+      ],
+      "entities": [
+        "Allocation Update",
+        "Ethereum",
+        "Explore",
+        "See"
+      ],
+      "importance_score": 8,
+      "credibility_level": "A",
+      "summary": "Q1 2026 continued our focus on strengthening Ethereum’s foundations, with sustained investment in core domains like cryptography, zero-knowledge proofs, security, and protocol research. See the list below of the projects and ecosystem efforts we supported this quarter as builders advance critical infrastructure, tools, and research across the network. Explore...",
+      "file_path": "web3/processed/2026-05-13-allocation-update-q1-2026-49acb5ba.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-allocation-update-q1-2026-49acb5ba.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-allocation-update-q1-2026-49acb5ba.md"
+      ]
+    },
+    {
+      "id": "87b1e7fc30cc47edbba340af1798834c",
+      "domain": "web3",
+      "title": "One Page Per Asset: Inside Tokens.xyz",
+      "source": "Solana News",
+      "url": "https://solana.com/news/inside-tokens-xyz",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:01+08:00",
+      "type": "news",
+      "tags": [
+        "solana",
+        "token"
+      ],
+      "entities": [
+        "Inside Tokens",
+        "One Page",
+        "Per Asset",
+        "Solana",
+        "Tokens"
+      ],
+      "importance_score": 8,
+      "credibility_level": "A",
+      "summary": "Tokens.xyz makes multiple onchain representations of the same underlying asset on Solana findable from a single page.",
+      "file_path": "web3/processed/2026-05-13-one-page-per-asset-inside-tokens-xyz-87b1e7fc.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-one-page-per-asset-inside-tokens-xyz-87b1e7fc.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-one-page-per-asset-inside-tokens-xyz-87b1e7fc.md"
+      ]
+    },
+    {
+      "id": "1baf3639874c41a9a2e30a2b7cc3e2ab",
+      "domain": "web3",
+      "title": "Noah x Jupiter x Solana: Powering Sovereign Payroll",
+      "source": "Solana News",
+      "url": "https://solana.com/news/case-study-noah",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:01+08:00",
+      "type": "news",
+      "tags": [
+        "solana",
+        "stablecoin"
+      ],
+      "entities": [
+        "EUR",
+        "Jupiter",
+        "Noah",
+        "Payroll\nLearn",
+        "Powering Sovereign",
+        "Solana",
+        "USD"
+      ],
+      "importance_score": 8,
+      "credibility_level": "A",
+      "summary": "Learn how Noah and Jupiter brought virtual USD/EUR accounts, instant off-ramps, and seamless fiat-to-stablecoin settlement to 50M+ Solana users",
+      "file_path": "web3/processed/2026-05-13-noah-x-jupiter-x-solana-powering-sovereign-payroll-1baf3639.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-noah-x-jupiter-x-solana-powering-sovereign-payroll-1baf3639.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-noah-x-jupiter-x-solana-powering-sovereign-payroll-1baf3639.md"
+      ]
+    },
+    {
+      "id": "51075eca4929425da4c0d21648458552",
+      "domain": "web3",
+      "title": "Navigate to DeFi Dashboard",
+      "source": "DefiLlama",
+      "url": "https://defillama.com",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:01+08:00",
+      "type": "news",
+      "tags": [
+        "defi"
+      ],
+      "entities": [
+        "DeFi Dashboard",
+        "DefiLlama",
+        "Llama",
+        "Navigate"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "自动采集自 DefiLlama：Navigate to DeFi Dashboard",
+      "file_path": "web3/processed/2026-05-13-navigate-to-defi-dashboard-51075eca.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-navigate-to-defi-dashboard-51075eca.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-navigate-to-defi-dashboard-51075eca.md"
+      ]
+    },
+    {
+      "id": "453795bd2fdb4d5a9101244bc73a9902",
+      "domain": "web3",
+      "title": "Stablecoins",
+      "source": "DefiLlama",
+      "url": "https://defillama.com/stablecoins",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:01+08:00",
+      "type": "news",
+      "tags": [
+        "defi",
+        "stablecoin"
+      ],
+      "entities": [
+        "DefiLlama",
+        "Llama",
+        "Stablecoins"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "自动采集自 DefiLlama：Stablecoins",
+      "file_path": "web3/processed/2026-05-13-stablecoins-453795bd.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-stablecoins-453795bd.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-stablecoins-453795bd.md"
+      ]
+    },
+    {
+      "id": "f7e35d09a04c450881ca23ec84df128f",
+      "domain": "web3",
+      "title": "API & MCP",
+      "source": "DefiLlama",
+      "url": "https://api-docs.defillama.com",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:01+08:00",
+      "type": "news",
+      "tags": [
+        "defi"
+      ],
+      "entities": [
+        "API",
+        "DefiLlama",
+        "Llama",
+        "MCP"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "自动采集自 DefiLlama：API & MCP",
+      "file_path": "web3/processed/2026-05-13-api-mcp-f7e35d09.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-api-mcp-f7e35d09.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-api-mcp-f7e35d09.md"
+      ]
+    },
+    {
+      "id": "b6932ca5170b4e1ab79762121d534eb6",
+      "domain": "web3",
+      "title": "DEX Aggregator",
+      "source": "DefiLlama",
+      "url": "https://swap.defillama.com",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:01+08:00",
+      "type": "news",
+      "tags": [
+        "defi"
+      ],
+      "entities": [
+        "DEX Aggregator",
+        "DefiLlama",
+        "Llama"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "自动采集自 DefiLlama：DEX Aggregator",
+      "file_path": "web3/processed/2026-05-13-dex-aggregator-b6932ca5.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-dex-aggregator-b6932ca5.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-dex-aggregator-b6932ca5.md"
+      ]
+    },
+    {
+      "id": "0623f45e1ed74e838cac670fda4709f3",
+      "domain": "web3",
+      "title": "Investor Relations New",
+      "source": "DefiLlama",
+      "url": "https://investors.defillama.com",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:02+08:00",
+      "type": "news",
+      "tags": [
+        "defi"
+      ],
+      "entities": [
+        "DefiLlama",
+        "Investor Relations",
+        "Llama",
+        "New"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "自动采集自 DefiLlama：Investor Relations New",
+      "file_path": "web3/processed/2026-05-13-investor-relations-new-0623f45e.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-investor-relations-new-0623f45e.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-investor-relations-new-0623f45e.md"
+      ]
+    },
+    {
+      "id": "0fc6a8efe83947d7b7603e2a6ea35b1d",
+      "domain": "web3",
+      "title": "XRP tops bitcoin, ether volumes on major South Korean exchanges",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/13/xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-13T16:17:02+08:00",
+      "type": "policy",
+      "tags": [
+        "bitcoin",
+        "token"
+      ],
+      "entities": [
+        "Bitcoin",
+        "Bithumb",
+        "KRW",
+        "Korean",
+        "South Korean",
+        "Upbit",
+        "XRP"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "XRP/KRW was the most traded pair on Upbit and second on Bithumb, a familiar Korean market signal that has often preceded sharper moves in the token.",
+      "file_path": "web3/processed/2026-05-13-xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges-0fc6a8ef.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges-0fc6a8ef.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-xrp-tops-bitcoin-ether-volumes-on-major-south-korean-exchanges-0fc6a8ef.md"
+      ]
+    },
+    {
+      "id": "4d37dd2c138f46a0b0b5da31a850567e",
+      "domain": "web3",
+      "title": "Bitcoin back above $81,000 after hot CPI print, BNB, DOGE lead majors gains",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-back-above-usd81-000-after-hot-cpi-print-bnb-doge-lead-majors-gains",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-13T16:17:02+08:00",
+      "type": "news",
+      "tags": [
+        "bitcoin",
+        "crypto"
+      ],
+      "entities": [
+        "BNB",
+        "Bitcoin",
+        "CPI",
+        "DOGE",
+        "Tuesday"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "Bitcoin rolled back to $81,200 after dipping to $79,800 on Tuesday's hotter-than-expected U.S. inflation reading, while BNB zoomed 2.5% over 24 hours and dogecoin added 1.3% as crypto funds saw their strongest weekly inflows in months.",
+      "file_path": "web3/processed/2026-05-13-bitcoin-back-above-81-000-after-hot-cpi-print-bnb-doge-lead-majors-gains-4d37dd2c.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-bitcoin-back-above-81-000-after-hot-cpi-print-bnb-doge-lead-majors-gains-4d37dd2c.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-bitcoin-back-above-81-000-after-hot-cpi-print-bnb-doge-lead-majors-gains-4d37dd2c.md"
+      ]
+    },
+    {
+      "id": "26708fd7c5af4d7893f989d2f83e5c61",
+      "domain": "web3",
+      "title": "Nevada regulators push back after prediction market conference blames them for move",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/13/nevada-gaming-regulator-says-prediction-market-conferences-are-welcome-in-las-vegas",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-13T16:17:02+08:00",
+      "type": "news",
+      "tags": [],
+      "entities": [
+        "ARIA Resort",
+        "Casino",
+        "Nevada",
+        "Predict",
+        "Spokesperson"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "Spokesperson for regulator denies that it put pressure on ARIA Resort & Casino for hosting Predict 2026",
+      "file_path": "web3/processed/2026-05-13-nevada-regulators-push-back-after-prediction-market-conference-blames-them-for-m-26708fd7.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-nevada-regulators-push-back-after-prediction-market-conference-blames-them-for-m-26708fd7.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-nevada-regulators-push-back-after-prediction-market-conference-blames-them-for-m-26708fd7.md"
+      ]
+    },
+    {
+      "id": "24ac87cfd67f4fc2837e4b602662f267",
+      "domain": "web3",
+      "title": "JPMorgan files to launch new tokenized fund as Wall Street tokenization race heats up",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/12/jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-heats-up",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-13T16:17:02+08:00",
+      "type": "product_update",
+      "tags": [
+        "token"
+      ],
+      "entities": [
+        "BlackRock",
+        "JPMorgan",
+        "The",
+        "Wall Street"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "The global banking giant is expanding its tokenized money market lineup, following BlackRock's similar move just a few days ago.",
+      "file_path": "web3/processed/2026-05-13-jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-hea-24ac87cf.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-hea-24ac87cf.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-jpmorgan-files-to-launch-new-tokenized-fund-as-wall-street-tokenization-race-hea-24ac87cf.md"
+      ]
+    },
+    {
+      "id": "0a031ac4656c4f7982f2fa810bb20f20",
+      "domain": "web3",
+      "title": "The Ethereum Foundation unveils new 'Clear Signing' standard to stop users from approving malicious crypto transactions",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/12/the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-approving-malicious-crypto-transactions",
+      "published_at": "2026-05-12",
+      "collected_at": "2026-05-13T16:17:02+08:00",
+      "type": "news",
+      "tags": [
+        "crypto",
+        "ethereum",
+        "wallet"
+      ],
+      "entities": [
+        "Clear Signing",
+        "Ethereum",
+        "Foundation",
+        "The",
+        "The Ethereum"
+      ],
+      "importance_score": 7,
+      "credibility_level": "B",
+      "summary": "The move comes after billions in losses from phishing attacks and wallet drains, with Ethereum pushing to make transaction approvals safer and easier to understand.",
+      "file_path": "web3/processed/2026-05-13-the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-ap-0a031ac4.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-ap-0a031ac4.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-the-ethereum-foundation-unveils-new-clear-signing-standard-to-stop-users-from-ap-0a031ac4.md"
+      ]
+    },
+    {
+      "id": "1b0c47d9cb6c4bdd922a8a1215d17e5a",
+      "domain": "web3",
+      "title": "・ 30亿DeFi资金大迁徙：LayerZero跌倒，Chainlink吃饱",
+      "source": "PANews",
+      "url": "https://www.panewslab.com/zh/articles/019e2061-3cb2-744a-baab-004ecd75a3d0",
+      "published_at": "",
+      "collected_at": "2026-05-13T16:17:02+08:00",
+      "type": "news",
+      "tags": [
+        "defi"
+      ],
+      "entities": [
+        "PANews"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "自动采集自 PANews：・ 30亿DeFi资金大迁徙：LayerZero跌倒，Chainlink吃饱",
+      "file_path": "web3/processed/2026-05-13-30亿defi资金大迁徙-layerzero跌倒-chainlink吃饱-1b0c47d9.md",
+      "raw_paths": [
+        "web3/raw/2026-05-13-30亿defi资金大迁徙-layerzero跌倒-chainlink吃饱-1b0c47d9.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-13-30亿defi资金大迁徙-layerzero跌倒-chainlink吃饱-1b0c47d9.md"
+      ]
+    },
+    {
+      "id": "42bdcd5f33ce46b0981c56f5ce96c3d3",
+      "domain": "ai",
+      "title": "在 Windows 上构建安全有效的沙箱以启用 Codex",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "url": "https://openai.com/index/building-codex-windows-sandbox",
+      "published_at": "2026-05-15",
+      "collected_at": "2026-05-14T09:43:35+08:00",
+      "type": "news",
+      "tags": [
+        "ai",
+        "openai"
+      ],
+      "entities": [
+        "Codex",
+        "Codex\nOpenAI",
+        "OpenAI",
+        "Windows"
+      ],
+      "importance_score": 8,
+      "credibility_level": "A",
+      "summary": "OpenAI 为 Windows 平台上的 Codex 构建了一个安全沙箱环境。该沙箱通过严格控制文件访问权限和实施网络限制，确保了代码生成与执行过程的安全性。这一举措使得基于 Codex 的编码助手能够以高效且受控的方式运行，在提供强大编程辅助功能的同时，有效隔离了潜在风险，保障了用户系统的安全。",
+      "file_path": "ai/processed/2026-05-14-在-windows-上构建安全有效的沙箱以启用-codex-42bdcd5f.md",
+      "raw_paths": [
+        "ai/raw/2026-05-14-在-windows-上构建安全有效的沙箱以启用-codex-42bdcd5f.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-14-在-windows-上构建安全有效的沙箱以启用-codex-42bdcd5f.md"
+      ]
+    },
+    {
+      "id": "6dd8fea3a46f4c1bbb2710d78b017b46",
+      "domain": "ai",
+      "title": "Claude 工具 v2.1.141 版本更新",
+      "source": "Claude Code：GitHub Releases（RSS）",
+      "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.141",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-14T09:43:36+08:00",
+      "type": "product_update",
+      "tags": [
+        "agent",
+        "anthropic",
+        "claude"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude",
+        "HTTPS",
+        "Markdown"
+      ],
+      "importance_score": 9,
+      "credibility_level": "A",
+      "summary": "Claude 工具发布 v2.1.141 版本，带来多项功能新增与优化。主要更新包括：为钩子输出添加 `terminalSequence` 字段以支持无控制终端的桌面通知；新增 `CLAUDE_CODE_PLUGIN_PREFER_HTTPS` 环境变量，便于通过 HTTPS 克隆插件源码；引入 `ANTHROPIC_WORKSPACE_ID` 变量以在多工作区联盟中限定令牌范围。会话管理方面，`claude agents` 命令新增 `--cwd` 参数用于按目录筛选，并优化后台代理的状态归类。用户体验改进包括：在倒带菜单添加\"总结至此\"选项以压缩早期上下文；长思考超时后旋转指示器变色提供更明确反馈；此外，还修复了 Markdown 表格渲染异常、权限提示逻辑、历史记录管理等超过 30 项问题。",
+      "file_path": "ai/processed/2026-05-14-claude-工具-v2-1-141-版本更新-6dd8fea3.md",
+      "raw_paths": [
+        "ai/raw/2026-05-14-claude-工具-v2-1-141-版本更新-6dd8fea3.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-14-claude-工具-v2-1-141-版本更新-6dd8fea3.md"
+      ]
+    },
+    {
+      "id": "f65b1f5a6379441e87b12b7fae24650b",
+      "domain": "ai",
+      "title": "BestBlogs早报：AI智能体工程化实战与安全架构",
+      "source": "X：洪明 (@hongming731)",
+      "url": "https://x.com/hongming731/status/2054701978924859865",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-14T09:43:36+08:00",
+      "type": "news",
+      "tags": [
+        "agent",
+        "ai",
+        "anthropic",
+        "claude",
+        "openai",
+        "rag"
+      ],
+      "entities": [
+        "Anthropic",
+        "Claude",
+        "Computer",
+        "OpenAI"
+      ],
+      "importance_score": 9,
+      "credibility_level": "A",
+      "summary": "BestBlogs早报聚焦AI智能体的工程化落地。Anthropic官方指南详解Claude Computer Use最佳实践，包括解决点击偏移的根本原因、推荐分辨率策略及必须采用虚拟机隔离与人工确认门控的安全原则。OpenAI工程师分享了为Codex构建Windows安全沙箱的历程，其最终方案通过专属安全标识符和写受限令牌，实现了操作系统层面的强制文件系统隔离。早报同时指出，基准测试优异的RAG Agent在生产环境中可能出现高达30%的幻觉率。",
+      "file_path": "ai/processed/2026-05-14-bestblogs早报-ai智能体工程化实战与安全架构-f65b1f5a.md",
+      "raw_paths": [
+        "ai/raw/2026-05-14-bestblogs早报-ai智能体工程化实战与安全架构-f65b1f5a.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-14-bestblogs早报-ai智能体工程化实战与安全架构-f65b1f5a.md"
+      ]
+    },
+    {
+      "id": "ed14be45de7c40e59c98d7c0b91f78aa",
+      "domain": "ai",
+      "title": "ExploitGym：AI智能体能否将安全漏洞转化为真实攻击？",
+      "source": "Berkeley RDI：Blog（AI 安全与评测）",
+      "url": "https://rdi.berkeley.edu/blog/exploitgym",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-14T09:43:36+08:00",
+      "type": "product_update",
+      "tags": [
+        "ai",
+        "anthropic",
+        "openai"
+      ],
+      "entities": [
+        "Anthropic",
+        "ExploitGym",
+        "OpenAI"
+      ],
+      "importance_score": 8,
+      "credibility_level": "B",
+      "summary": "由伯克利RDI、马克斯·普朗克安全与隐私研究所、Anthropic、OpenAI及谷歌等机构研究人员组成的团队，发布了名为ExploitGym的新基准测试。该测试包含898个真实漏洞，要求AI智能体根据漏洞描述生成完整的漏洞利用程序。结果显示，前沿AI模型已能成功利用相当数量的漏洞，即使在启用ASLR等标准防御措施后，部分攻击仍能成功。这证明AI已具备自主将漏洞转化为实际攻击的能力，该技术具有双重用途：既可帮助防御者评估漏洞严重性，也可能降低攻击者的技术门槛。",
+      "file_path": "ai/processed/2026-05-14-exploitgym-ai智能体能否将安全漏洞转化为真实攻击-ed14be45.md",
+      "raw_paths": [
+        "ai/raw/2026-05-14-exploitgym-ai智能体能否将安全漏洞转化为真实攻击-ed14be45.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-14-exploitgym-ai智能体能否将安全漏洞转化为真实攻击-ed14be45.md"
+      ]
+    },
+    {
+      "id": "6fdf7331536b4f0ab6babc9847252b18",
+      "domain": "ai",
+      "title": "AI角色实现记忆共情与主动交互",
+      "source": "X：阿里云 / Alibaba Cloud (@alibaba_cloud)",
+      "url": "https://x.com/alibaba_cloud/status/2054653031472414864",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-14T09:43:36+08:00",
+      "type": "news",
+      "tags": [
+        "ai",
+        "model"
+      ],
+      "entities": [
+        "AlibabaCloud",
+        "ModelStudio",
+        "Qwen",
+        "QwenCharacter"
+      ],
+      "importance_score": 5,
+      "credibility_level": "C",
+      "summary": "如果AI角色能够记忆、共情并主动交互呢？✨ 交互式AI的未来已来。无论您是为游戏、虚拟AI伴侣还是自适应学习进行开发，Qwen-Character都能打造沉浸式角色扮演体验，推动参与度加深50%以上并提升用户终身价值 👉 观看完整视频了解运作原理：https：//int.alibabacloud.com/m/1000412854/ #AlibabaCloud #Qwen #QwenCharacter #ModelStudio #AI",
+      "file_path": "ai/processed/2026-05-14-ai角色实现记忆共情与主动交互-6fdf7331.md",
+      "raw_paths": [
+        "ai/raw/2026-05-14-ai角色实现记忆共情与主动交互-6fdf7331.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-14-ai角色实现记忆共情与主动交互-6fdf7331.md"
+      ]
+    },
+    {
+      "id": "a1825b9fd87b47deb75d852de470c690",
+      "domain": "ai",
+      "title": "May 13, 2026 Announcements Introducing Claude for Small Business",
+      "source": "Anthropic News",
+      "url": "https://www.anthropic.com/news/claude-for-small-business",
+      "published_at": "",
+      "collected_at": "2026-05-14T09:43:36+08:00",
+      "type": "news",
+      "tags": [
+        "anthropic",
+        "claude"
+      ],
+      "entities": [
+        "Announcements Introducing",
+        "Anthropic",
+        "Anthropic News",
+        "Claude",
+        "May",
+        "Small Business"
+      ],
+      "importance_score": 8,
+      "credibility_level": "A",
+      "summary": "自动采集自 Anthropic News：May 13, 2026 Announcements Introducing Claude for Small Business",
+      "file_path": "ai/processed/2026-05-14-may-13-2026-announcements-introducing-claude-for-small-business-a1825b9f.md",
+      "raw_paths": [
+        "ai/raw/2026-05-14-may-13-2026-announcements-introducing-claude-for-small-business-a1825b9f.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-14-may-13-2026-announcements-introducing-claude-for-small-business-a1825b9f.md"
+      ]
+    },
+    {
+      "id": "1d82d82ce16345e6bf4c122f10bf7eae",
+      "domain": "ai",
+      "title": "Improving Depth Anything V2 Robustness to Video Compression BEAMR-LTD • 7 days ago • 10",
+      "source": "Hugging Face Blog",
+      "url": "https://huggingface.co/blog/BEAMR-LTD/improving-dav2-robustness-to-video-compression",
+      "published_at": "",
+      "collected_at": "2026-05-14T09:43:37+08:00",
+      "type": "news",
+      "tags": [],
+      "entities": [
+        "Anything",
+        "BEAMR",
+        "Blog",
+        "Hugging Face",
+        "Improving Depth",
+        "LTD",
+        "Robustness",
+        "Video Compression"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "自动采集自 Hugging Face Blog：Improving Depth Anything V2 Robustness to Video Compression BEAMR-LTD • 7 days ago • 10",
+      "file_path": "ai/processed/2026-05-14-improving-depth-anything-v2-robustness-to-video-compression-beamr-ltd-7-days-ago-1d82d82c.md",
+      "raw_paths": [
+        "ai/raw/2026-05-14-improving-depth-anything-v2-robustness-to-video-compression-beamr-ltd-7-days-ago-1d82d82c.md"
+      ],
+      "processed_paths": [
+        "ai/processed/2026-05-14-improving-depth-anything-v2-robustness-to-video-compression-beamr-ltd-7-days-ago-1d82d82c.md"
+      ]
+    },
+    {
+      "id": "551e9e7119ff4cbf8b947024cdecacf0",
+      "domain": "web3",
+      "title": "Ethereum app builder Consensys has delayed its potential IPO until fall",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/business/2026/05/13/ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-14T09:43:39+08:00",
+      "type": "news",
+      "tags": [
+        "ethereum",
+        "wallet"
+      ],
+      "entities": [
+        "Consensys",
+        "Ethereum",
+        "Goldman Sachs",
+        "IPO",
+        "JPMorgan",
+        "Meta",
+        "The MetaMask"
+      ],
+      "importance_score": 7,
+      "credibility_level": "B",
+      "summary": "The MetaMask wallet builder had reportedly engaged bankers from JPMorgan and Goldman Sachs to lead the process.",
+      "file_path": "web3/processed/2026-05-14-ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall-551e9e71.md",
+      "raw_paths": [
+        "web3/raw/2026-05-14-ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall-551e9e71.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-14-ethereum-app-builder-consensys-has-delayed-its-potential-ipo-until-fall-551e9e71.md"
+      ]
+    },
+    {
+      "id": "9587f338e1cf421a93e4494aa19b7000",
+      "domain": "web3",
+      "title": "The Protocol: Solana’s ‘Alpenglow’ upgrade is live for testing",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/tech/2026/05/13/the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-14T09:43:39+08:00",
+      "type": "news",
+      "tags": [
+        "protocol",
+        "solana"
+      ],
+      "entities": [
+        "Alpenglow",
+        "Also",
+        "Clear Signing",
+        "LayerZero",
+        "Ronin",
+        "Solana",
+        "The Protocol"
+      ],
+      "importance_score": 7,
+      "credibility_level": "B",
+      "summary": "Also: LayerZero apology, Ronin layer-2 transition and ‘Clear Signing’",
+      "file_path": "web3/processed/2026-05-14-the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing-9587f338.md",
+      "raw_paths": [
+        "web3/raw/2026-05-14-the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing-9587f338.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-14-the-protocol-solana-s-alpenglow-upgrade-is-live-for-testing-9587f338.md"
+      ]
+    },
+    {
+      "id": "1db20456533e449bbdee54b29737dc5d",
+      "domain": "web3",
+      "title": "Metaplanet delays preferred share listing amid challenging Japanese market structure",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/13/metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-structure",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-14T09:43:39+08:00",
+      "type": "product_update",
+      "tags": [],
+      "entities": [
+        "CEO Simon",
+        "Gerovich",
+        "Japanese",
+        "Meta",
+        "Metaplanet"
+      ],
+      "importance_score": 6,
+      "credibility_level": "B",
+      "summary": "CEO Simon Gerovich says regulatory and infrastructure challenges are slowing the launch of Metaplanet's perpetual preferred share.",
+      "file_path": "web3/processed/2026-05-14-metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-struc-1db20456.md",
+      "raw_paths": [
+        "web3/raw/2026-05-14-metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-struc-1db20456.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-14-metaplanet-delays-preferred-share-listing-amid-challenging-japanese-market-struc-1db20456.md"
+      ]
+    },
+    {
+      "id": "84163833b5c44fb7a32b10ed282968c2",
+      "domain": "web3",
+      "title": "UK parliament to probe Nigel Farage’s $6.8 million donation from crypto billionaire",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/policy/2026/05/13/uk-parliament-to-probe-nigel-farage-s-usd6-8-million-donation-from-crypto-billionaire",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-14T09:43:39+08:00",
+      "type": "news",
+      "tags": [
+        "crypto"
+      ],
+      "entities": [
+        "Commons",
+        "House",
+        "Nigel Farage",
+        "Parliamentary",
+        "Reform"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "If found guilty of violating the Parliamentary code of conduct, the Reform UK party leader could be suspended from the House of Commons.",
+      "file_path": "web3/processed/2026-05-14-uk-parliament-to-probe-nigel-farage-s-6-8-million-donation-from-crypto-billionai-84163833.md",
+      "raw_paths": [
+        "web3/raw/2026-05-14-uk-parliament-to-probe-nigel-farage-s-6-8-million-donation-from-crypto-billionai-84163833.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-14-uk-parliament-to-probe-nigel-farage-s-6-8-million-donation-from-crypto-billionai-84163833.md"
+      ]
+    },
+    {
+      "id": "debf724df6c7427f97ca8f04c5c356ca",
+      "domain": "web3",
+      "title": "Bitcoin buyers with long-term 'conviction' surges 300% with most recent buyers sitting on profits",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/markets/2026/05/13/bitcoin-s-available-supply-is-shrinking-as-long-term-hoarding-hits-record-4-million-btc",
+      "published_at": "2026-05-13",
+      "collected_at": "2026-05-14T09:43:40+08:00",
+      "type": "news",
+      "tags": [
+        "bitcoin"
+      ],
+      "entities": [
+        "BTC",
+        "Bitcoin"
+      ],
+      "importance_score": 5,
+      "credibility_level": "B",
+      "summary": "Bitcoin held by so-called conviction buyers has surged to nearly 4 million BTC, a roughly 300% increase since late 2025.",
+      "file_path": "web3/processed/2026-05-14-bitcoin-buyers-with-long-term-conviction-surges-300-with-most-recent-buyers-sitt-debf724d.md",
+      "raw_paths": [
+        "web3/raw/2026-05-14-bitcoin-buyers-with-long-term-conviction-surges-300-with-most-recent-buyers-sitt-debf724d.md"
+      ],
+      "processed_paths": [
+        "web3/processed/2026-05-14-bitcoin-buyers-with-long-term-conviction-surges-300-with-most-recent-buyers-sitt-debf724d.md"
+      ]
     }
   ]
 }

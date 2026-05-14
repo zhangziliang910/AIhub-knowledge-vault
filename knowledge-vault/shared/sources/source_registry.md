@@ -22,6 +22,7 @@ configs/sources_config.yaml
 - Solana News：Web3 / 官方 / A
 - TechCrunch AI：AI / 媒体 / B
 - CoinDesk：Web3 / 媒体 / B
+- AI HOT 精选：AI / 中文精选资讯 API / B
 
 建议后续增加：
 

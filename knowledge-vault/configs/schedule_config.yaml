@@ -1,0 +1,5 @@
+{
+  "daily_pipeline": {"enabled": true, "time": "07:30", "timezone": "Asia/Shanghai"},
+  "evening_update": {"enabled": true, "time": "20:30", "timezone": "Asia/Shanghai"},
+  "weekly_pipeline": {"enabled": true, "day": "Sunday", "time": "21:00", "timezone": "Asia/Shanghai"}
+}

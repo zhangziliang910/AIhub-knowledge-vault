@@ -2,6 +2,7 @@ from __future__ import annotations
 
 from pathlib import Path
 from typing import Any
+import json
 
 
 VAULT_ROOT = Path(__file__).resolve().parents[2]
@@ -56,6 +57,10 @@ def _simple_yaml(text: str) -> dict[str, Any]:
 
 def load_yaml(path: Path) -> dict[str, Any]:
     text = path.read_text(encoding="utf-8")
+    try:
+        return json.loads(text)
+    except Exception:
+        pass
     try:
         import yaml  # type: ignore
 

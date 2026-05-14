@@ -9,6 +9,8 @@ from lib.db import connect, init_db
 from lib.logging_utils import log_run, now_iso
 from lib.retrieval import retrieve
 from lib.routing import route
+from lib.config import VAULT_ROOT
+from lib.pipeline_utils import load_user_context
 
 
 def latest_collected_at() -> str:
@@ -34,17 +36,23 @@ def build_answer(question: str, route_info: dict, results: list[dict]) -> str:
             or (("/daily/" in path or "/weekly/" in path or "\\daily\\" in path or "\\weekly\\" in path) and ("每日简报" in text or "每周总结" in text))
         )
 
+    latest = latest_collected_at()
+    domain = route_info["domain"] if route_info["domain"] in {"ai", "web3"} else "ai"
+    expert_context = load_expert_context(domain)
+    user_context = load_user_context()
     if not results or all(low_information(item) for item in results):
         return (
             "## 结论\n\n"
             "当前知识库资料不足，无法基于已归档材料给出可靠回答。\n\n"
+            f"当前知识库最新收录时间：{latest}\n\n"
             "## 依据材料\n\n"
             "- 未检索到足够相关的本地资料；当前命中的材料多为空简报或目录索引，不能作为事实依据。\n\n"
+            "## 对用户工作的建议\n\n"
+            f"- 结合用户关注方向（{', '.join(user_context.get('focus_topics', [])[:5])}），建议先补充高可信材料后再判断。\n\n"
             "## 后续可跟踪方向\n\n"
             "- 补充官方公告、项目博客、研究报告或高可信行业媒体材料后重新检索。\n"
         )
 
-    latest = latest_collected_at()
     sources = []
     facts = []
     caveats = []
@@ -64,6 +72,8 @@ def build_answer(question: str, route_info: dict, results: list[dict]) -> str:
         "",
         f"问题被路由为 `{route_info['domain']}`。基于当前知识库检索结果，可以先给出谨慎结论：相关判断应以上述已归档材料为准；若涉及趋势或未来影响，下面的分析属于系统推测而非已确认事实。",
         "",
+        f"当前知识库最新收录时间：{latest}",
+        "",
         "## 依据材料",
         "",
         *sources,
@@ -74,18 +84,37 @@ def build_answer(question: str, route_info: dict, results: list[dict]) -> str:
         "",
         "## 分析判断",
         "",
-        "已归档事实主要来自检索到的 Markdown 笔记、项目档案、日报或周报。来源观点需要结合其可信度判断；A/B 级来源可作为主要依据，C/D 级来源仅适合作为线索。系统推测部分建议在后续采集到更多材料后再修正。",
+        "已归档事实主要来自检索到的 Markdown 笔记、项目档案、日报、周报和趋势记忆。来源观点需要结合其可信度判断；A/B 级来源可作为主要依据，C/D 级来源仅适合作为线索。系统推测部分建议在后续采集到更多材料后再修正。",
+        "",
+        "## 专家记忆参考",
+        "",
+        expert_context[:900] if expert_context else "暂无专家记忆。",
         "",
         "## 风险与不确定性",
         "",
         *(caveats or ["- 暂未发现明显低可信来源，但仍需关注材料是否过期或是否缺少官方确认。"]),
         f"- 时间敏感提示：知识库最新收录时间为 {latest}。",
         "",
+        "## 对用户工作的建议",
+        "",
+        f"- 用户背景：{user_context.get('role', '未配置')}",
+        f"- 相关项目：{', '.join(user_context.get('projects', [])[:4])}",
+        "- 将检索到的事实转化为项目 watchlist，并在周报中验证是否形成稳定趋势。",
+        "",
         "## 后续可跟踪方向",
         "",
         "- 继续补充官方公告、GitHub、论文、监管文件和项目博客。",
         "- 对高重要性主题建立项目或概念档案，避免只依赖日报碎片。",
     ])
+
+
+def load_expert_context(domain: str) -> str:
+    chunks = []
+    for name in ["expert_profile.md", "trend_memory.md"]:
+        path = VAULT_ROOT / domain / name
+        if path.exists():
+            chunks.append(path.read_text(encoding="utf-8")[:2500])
+    return "\n\n".join(chunks)
 
 
 def save_question(question: str, routed_domain: str, answer: str, results: list[dict]) -> None:

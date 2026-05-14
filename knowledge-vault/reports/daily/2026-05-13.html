@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI / Web3 每日情报简报 - 2026-05-13</title>
+  <style>
+    body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; color: #172026; background: #f6f7f9; }
+    main { max-width: 1040px; margin: 0 auto; padding: 40px 24px 56px; }
+    h1 { font-size: 30px; margin: 0 0 8px; letter-spacing: 0; }
+    h2 { font-size: 18px; margin: 32px 0 12px; }
+    p { line-height: 1.65; }
+    .muted { color: #62707c; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(210px, 1fr)); gap: 12px; margin: 18px 0 8px; }
+    .card { background: #fff; border: 1px solid #dde3ea; border-radius: 8px; padding: 16px; }
+    .metric { font-size: 28px; font-weight: 700; margin-top: 6px; }
+    .ok { color: #147c4c; }
+    .warn { color: #a15c00; }
+    ul { padding-left: 20px; line-height: 1.65; }
+    li { margin: 6px 0; }
+    table { width: 100%; border-collapse: collapse; background: #fff; border: 1px solid #dde3ea; border-radius: 8px; overflow: hidden; }
+    th, td { text-align: left; padding: 12px; border-bottom: 1px solid #e8edf2; vertical-align: top; }
+    th { background: #eef2f5; font-weight: 650; }
+    tr:last-child td { border-bottom: 0; }
+    .pill { display: inline-block; padding: 2px 8px; border-radius: 999px; background: #edf4ff; color: #245a94; font-size: 12px; }
+    a { color: #0a5cad; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>AI / Web3 每日情报简报</h1>
+    <p class="muted">日期：2026-05-13；运行时间：2026-05-13 15:32:38 至 15:32:39（Asia/Shanghai）</p>
+
+    <section class="grid">
+      <div class="card">
+        <div class="muted">在线来源</div>
+        <div class="metric">7</div>
+      </div>
+      <div class="card">
+        <div class="muted">本轮在线新增条目</div>
+        <div class="metric warn">0</div>
+      </div>
+      <div class="card">
+        <div class="muted">SQLite 同步新增文档</div>
+        <div class="metric ok">26</div>
+      </div>
+      <div class="card">
+        <div class="muted">健康检查</div>
+        <div class="metric ok">通过</div>
+      </div>
+    </section>
+
+    <h2>采集结果</h2>
+    <p>本轮执行了在线来源采集器，每个来源最多 3 条，并完成 SQLite 与本地向量库同步。在线抓取阶段被当前运行环境的网络权限拦截，所有来源均未成功拉取新条目；同步阶段把已有 Markdown 知识材料补齐到 SQLite，新增 26 个数据库文档。向量库未新增 chunk，现有向量记录保持可用。</p>
+
+    <h2>失败来源</h2>
+    <ul>
+      <li>OpenAI News：网络套接字访问被权限策略拒绝（WinError 10013）。</li>
+      <li>Anthropic News：网络套接字访问被权限策略拒绝（WinError 10013）。</li>
+      <li>Google DeepMind Blog：网络套接字访问被权限策略拒绝（WinError 10013）。</li>
+      <li>Ethereum Foundation Blog：网络套接字访问被权限策略拒绝（WinError 10013）。</li>
+      <li>Solana News：网络套接字访问被权限策略拒绝（WinError 10013）。</li>
+      <li>TechCrunch AI：网络套接字访问被权限策略拒绝（WinError 10013）。</li>
+      <li>CoinDesk：网络套接字访问被权限策略拒绝（WinError 10013）。</li>
+    </ul>
+
+    <h2>当前知识库规模</h2>
+    <table>
+      <thead>
+        <tr><th>领域</th><th>Markdown 文件</th><th>SQLite 文档</th><th>Chunk</th><th>向量化 Chunk</th><th>失败 Chunk</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><span class="pill">AI</span></td><td>23</td><td>17</td><td>32</td><td>32</td><td>0</td></tr>
+        <tr><td><span class="pill">Web3</span></td><td>23</td><td>16</td><td>32</td><td>32</td><td>0</td></tr>
+      </tbody>
+    </table>
+
+    <h2>值得关注的高可信新材料</h2>
+    <p>本轮在线采集新增条目为 0，因此没有新的 A/B 级高可信材料可标记。由于 SQLite 本轮新增的是已有 Markdown 的补同步记录，建议本次重点关注采集网络权限问题，而不是内容筛选。</p>
+
+    <h2>已入库高可信材料回看</h2>
+    <ul>
+      <li><strong>Claude Design by Anthropic Labs</strong>（A 级，重要性 9）：Anthropic 将 Claude 扩展到设计、原型、幻灯片和 one-pager 等视觉工作流。</li>
+      <li><strong>Solana Ecosystem Roundup: April 2026</strong>（A 级，重要性 9）：覆盖 Solana 生态在机构采用、RWA、稳定币、DeFi、AI agent 和消费应用方面的进展。</li>
+      <li><strong>OpenAI Campus Network</strong>（A 级，重要性 8）：OpenAI 面向高校社群和学生组织扩展 AI 工具与活动网络。</li>
+      <li><strong>Solana Foundation Launches Pay.sh with Google Cloud</strong>（A 级，重要性 8）：Pay.sh 面向 autonomous agents 与企业基础设施之间的支付/网关连接。</li>
+      <li><strong>Introducing Claude Opus 4.7</strong>（A 级，重要性 8）：Claude Opus 版本在编码、agent、视觉和多步骤任务上增强。</li>
+    </ul>
+
+    <h2>本地文件</h2>
+    <ul>
+      <li>HTML 报告：<a href="./2026-05-13.html">reports/daily/2026-05-13.html</a></li>
+      <li>Markdown 报告：<a href="./2026-05-13.md">reports/daily/2026-05-13.md</a></li>
+      <li>SQLite：data/sqlite/knowledge.db</li>
+      <li>向量库：data/vector/ai/ai_knowledge.json 与 data/vector/web3/web3_knowledge.json</li>
+    </ul>
+  </main>
+</body>
+</html>

@@ -1,0 +1,11 @@
+{
+  "provider": "openai",
+  "model": "gpt-5.2",
+  "source_lang": "EN",
+  "target_lang": "ZH-CN",
+  "preserve_original": true,
+  "append_mode": "below_original",
+  "max_chars_per_request": 6000,
+  "timeout_seconds": 60,
+  "fallback_provider": "mock"
+}

@@ -28,9 +28,9 @@
       "domain": "ai",
       "source_type": "official",
       "credibility_level": "A",
-      "feed_url": "https://deepmind.google/discover/blog/rss.xml",
-      "page_url": "https://deepmind.google/discover/blog",
-      "link_allow": ["deepmind.google/discover/blog"],
+      "feed_url": "https://deepmind.google/blog/rss.xml",
+      "page_url": "https://deepmind.google/blog/",
+      "link_allow": ["deepmind.google/blog"],
       "enabled": true
     },
     {
